@@ -1,0 +1,77 @@
+2026-04-24T12:21:19.083951 start scheduler
+2026-04-24T12:21:19.102863 start memcached [0] 4
+2026-04-24T12:21:22.318973 start freqmine [1,2,3] 3
+2026-04-24T12:21:34.354953 update_cores memcached [0,1]
+2026-04-24T12:22:49.498930 update_cores memcached [0]
+2026-04-24T12:23:04.548800 update_cores memcached [0,1]
+2026-04-24T12:23:34.619192 update_cores memcached [0,1,2]
+2026-04-24T12:23:58.680337 update_cores memcached [0,1]
+2026-04-24T12:24:01.702969 update_cores memcached [0]
+2026-04-24T12:24:19.753026 update_cores memcached [0,1]
+2026-04-24T12:24:31.789459 update_cores memcached [0]
+2026-04-24T12:25:01.911682 end freqmine
+2026-04-24T12:25:05.127185 start radix [1,2] 2
+2026-04-24T12:25:08.384826 start blackscholes [3] 1
+2026-04-24T12:25:17.430020 update_cores memcached [0,1]
+2026-04-24T12:25:23.465946 update_cores memcached [0,1,2]
+2026-04-24T12:25:35.515025 update_cores memcached [0,1]
+2026-04-24T12:25:35.535152 end radix
+2026-04-24T12:25:38.552689 update_cores memcached [0]
+2026-04-24T12:25:38.576381 update_cores blackscholes [3,1]
+2026-04-24T12:25:38.785580 start canneal [2] 1
+2026-04-24T12:26:02.845582 update_cores memcached [0,1]
+2026-04-24T12:26:05.879151 update_cores memcached [0,1,2]
+2026-04-24T12:26:17.927220 update_cores memcached [0,1]
+2026-04-24T12:26:20.946440 update_cores memcached [0]
+2026-04-24T12:26:32.981340 update_cores memcached [0,1]
+2026-04-24T12:26:37.749257 end blackscholes
+2026-04-24T12:26:40.779561 update_cores canneal [2,3]
+2026-04-24T12:26:46.801535 update_cores memcached [0]
+2026-04-24T12:26:47.031160 start vips [1] 1
+2026-04-24T12:27:02.075381 update_cores memcached [0,1]
+2026-04-24T12:27:26.136007 update_cores memcached [0]
+2026-04-24T12:27:32.166853 update_cores memcached [0,1]
+2026-04-24T12:28:30.989872 end vips
+2026-04-24T12:29:49.093421 update_cores memcached [0]
+2026-04-24T12:29:49.331291 start streamcluster [1] 1
+2026-04-24T12:29:55.384976 end canneal
+2026-04-24T12:29:58.413190 update_cores streamcluster [1,2,3]
+2026-04-24T12:30:04.441295 update_cores memcached [0,1]
+2026-04-24T12:30:10.472437 update_cores memcached [0,1,2]
+2026-04-24T12:31:19.602516 update_cores memcached [0,1]
+2026-04-24T12:31:22.623844 update_cores memcached [0]
+2026-04-24T12:31:49.672715 update_cores memcached [0,1]
+2026-04-24T12:32:16.732865 update_cores memcached [0,1,2]
+2026-04-24T12:32:46.791927 update_cores memcached [0,1]
+2026-04-24T12:32:49.812882 update_cores memcached [0]
+2026-04-24T12:33:01.845351 update_cores memcached [0,1]
+2026-04-24T12:34:01.943606 update_cores memcached [0]
+2026-04-24T12:34:16.981632 update_cores memcached [0,1]
+2026-04-24T12:35:17.087782 update_cores memcached [0,1,2]
+2026-04-24T12:35:32.127563 update_cores memcached [0,1]
+2026-04-24T12:35:35.145233 update_cores memcached [0]
+2026-04-24T12:36:47.238587 update_cores memcached [0,1]
+2026-04-24T12:36:50.267151 update_cores memcached [0,1,2]
+2026-04-24T12:37:02.301568 update_cores memcached [0,1]
+2026-04-24T12:37:05.319988 update_cores memcached [0]
+2026-04-24T12:37:17.350706 update_cores memcached [0,1]
+2026-04-24T12:37:29.391868 update_cores memcached [0,1,2]
+2026-04-24T12:37:41.426852 update_cores memcached [0,1]
+2026-04-24T12:37:47.450980 update_cores memcached [0]
+2026-04-24T12:38:02.487016 update_cores memcached [0,1]
+2026-04-24T12:38:05.520024 update_cores memcached [0,1,2]
+2026-04-24T12:38:38.598673 end streamcluster
+2026-04-24T12:38:41.937617 start barnes [3] 1
+2026-04-24T12:38:47.967108 update_cores memcached [0,1]
+2026-04-24T12:38:47.991922 update_cores barnes [3,2]
+2026-04-24T12:38:51.009979 update_cores memcached [0]
+2026-04-24T12:39:03.041441 update_cores memcached [0,1]
+2026-04-24T12:39:06.075967 update_cores memcached [0,1,2]
+2026-04-24T12:39:48.160948 update_cores memcached [0,1]
+2026-04-24T12:39:51.180543 update_cores memcached [0]
+2026-04-24T12:40:18.226747 update_cores memcached [0,1]
+2026-04-24T12:40:48.293508 update_cores memcached [0,1,2]
+2026-04-24T12:41:03.332095 update_cores memcached [0,1]
+2026-04-24T12:41:06.350040 update_cores memcached [0]
+2026-04-24T12:41:21.386003 end barnes
+2026-04-24T12:41:21.386059 end scheduler

@@ -1,0 +1,871 @@
+[memcached] pid=7716
+[monitor] ['6%', '1%', '1%', '2%']  memcached=14.0%
+[freqmine] started on [1, 2, 3]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['11%', '20%', '77%', '12%']  memcached=16.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['22%', '100%', '100%', '100%']  memcached=16.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['18%', '85%', '86%', '100%']  memcached=33.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['89%', '100%', '100%', '100%']  memcached=86.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['87%', '100%', '100%', '100%']  memcached=95.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['85%', '100%', '100%', '100%']  memcached=93.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['85%', '100%', '100%', '100%']  memcached=93.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['87%', '100%', '100%', '100%']  memcached=112.9%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=144.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=151.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=144.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=144.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=151.9%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=146.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=139.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['97%', '100%', '100%', '100%']  memcached=114.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['90%', '100%', '100%', '100%']  memcached=109.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['90%', '100%', '100%', '100%']  memcached=96.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['66%', '100%', '100%', '100%']  memcached=73.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['69%', '100%', '100%', '100%']  memcached=71.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['70%', '100%', '100%', '100%']  memcached=71.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['71%', '100%', '100%', '100%']  memcached=74.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['70%', '100%', '100%', '100%']  memcached=80.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['85%', '100%', '100%', '100%']  memcached=97.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['83%', '100%', '100%', '100%']  memcached=95.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['87%', '100%', '100%', '100%']  memcached=95.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['81%', '100%', '100%', '100%']  memcached=97.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['83%', '100%', '100%', '100%']  memcached=84.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['70%', '100%', '100%', '100%']  memcached=66.0%
+[memcached] cores → [0]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['72%', '100%', '100%', '100%']  memcached=65.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['72%', '100%', '100%', '100%']  memcached=63.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['73%', '100%', '100%', '100%']  memcached=64.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['72%', '100%', '100%', '100%']  memcached=79.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=146.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=154.8%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=157.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=160.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=153.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=151.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=156.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=152.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=153.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=170.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=186.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=188.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=188.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=185.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=186.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=167.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=139.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['97%', '100%', '100%', '100%']  memcached=82.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['66%', '100%', '100%', '100%']  memcached=38.0%
+[memcached] cores → [0]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['15%', '100%', '100%', '100%']  memcached=17.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['16%', '100%', '100%', '100%']  memcached=18.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['15%', '100%', '100%', '100%']  memcached=17.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['12%', '100%', '100%', '100%']  memcached=18.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['13%', '100%', '100%', '100%']  memcached=72.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=97.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=133.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['95%', '100%', '100%', '100%']  memcached=126.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['97%', '100%', '100%', '100%']  memcached=125.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['95%', '100%', '100%', '100%']  memcached=52.0%
+[memcached] cores → [0]
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['16%', '100%', '100%', '100%']  memcached=24.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['14%', '100%', '100%', '100%']  memcached=24.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['17%', '100%', '100%', '100%']  memcached=24.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['13%', '100%', '100%', '100%']  memcached=24.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['13%', '100%', '100%', '100%']  memcached=60.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['83%', '100%', '100%', '100%']  memcached=71.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['81%', '100%', '100%', '100%']  memcached=75.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['81%', '100%', '100%', '100%']  memcached=73.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['79%', '100%', '100%', '100%']  memcached=72.0%
+[scheduler] active=['freqmine']  done=[]
+[monitor] ['79%', '100%', '100%', '100%']  memcached=43.0%
+[freqmine] finished
+[scheduler] active=[]  done=['freqmine']
+[monitor] ['24%', '3%', '2%', '3%']  memcached=34.0%
+[radix] started on [1, 2]
+[scheduler] active=['radix']  done=['freqmine']
+[monitor] ['31%', '92%', '86%', '7%']  memcached=37.0%
+[blackscholes] started on [3]
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['29%', '100%', '100%', '100%']  memcached=37.0%
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['29%', '100%', '100%', '100%']  memcached=37.0%
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['43%', '100%', '100%', '100%']  memcached=98.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=137.0%
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=191.9%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=145.7%
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=159.0%
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=189.0%
+[scheduler] active=['radix', 'blackscholes']  done=['freqmine']
+[monitor] ['32%', '31%', '30%', '100%']  memcached=31.0%
+[memcached] cores → [0, 1]
+[radix] finished
+[scheduler] active=['blackscholes']  done=['freqmine', 'radix']
+[monitor] ['8%', '11%', '0%', '100%']  memcached=26.0%
+[memcached] cores → [0]
+[blackscholes] cores → [3, 1]
+[canneal] started on [2]
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['17%', '38%', '100%', '66%']  memcached=25.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['15%', '92%', '100%', '11%']  memcached=23.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['17%', '100%', '100%', '3%']  memcached=34.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['22%', '100%', '100%', '4%']  memcached=33.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['21%', '100%', '100%', '3%']  memcached=34.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['23%', '3%', '100%', '100%']  memcached=36.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['23%', '70%', '100%', '35%']  memcached=33.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['57%', '5%', '100%', '100%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=163.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['91%', '84%', '100%', '100%']  memcached=160.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['90%', '82%', '100%', '100%']  memcached=162.9%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['92%', '84%', '100%', '100%']  memcached=163.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['63%', '72%', '100%', '82%']  memcached=13.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['20%', '94%', '100%', '9%']  memcached=13.0%
+[memcached] cores → [0]
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['21%', '100%', '100%', '2%']  memcached=13.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['24%', '100%', '100%', '2%']  memcached=12.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['22%', '37%', '100%', '66%']  memcached=12.0%
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['54%', '49%', '100%', '55%']  memcached=94.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['blackscholes', 'canneal']  done=['freqmine', 'radix']
+[monitor] ['66%', '62%', '100%', '96%']  memcached=107.0%
+[blackscholes] finished
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['65%', '60%', '100%', '7%']  memcached=109.0%
+[canneal] cores → [2, 3]
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['64%', '57%', '100%', '4%']  memcached=106.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['64%', '59%', '100%', '5%']  memcached=62.0%
+[memcached] cores → [0]
+[vips] started on [1]
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['29%', '100%', '100%', '7%']  memcached=37.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['28%', '100%', '100%', '3%']  memcached=37.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['31%', '100%', '100%', '2%']  memcached=36.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['27%', '100%', '100%', '2%']  memcached=36.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['30%', '100%', '100%', '100%']  memcached=99.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '97%']  memcached=124.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '100%']  memcached=124.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '95%', '100%']  memcached=125.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '7%']  memcached=126.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '5%']  memcached=125.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '7%']  memcached=125.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '6%']  memcached=121.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['83%', '100%', '100%', '4%']  memcached=58.0%
+[memcached] cores → [0]
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['62%', '100%', '100%', '2%']  memcached=58.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['63%', '100%', '100%', '8%']  memcached=101.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '70%']  memcached=125.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '100%', '7%']  memcached=127.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '78%', '38%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '8%', '100%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '9%', '100%']  memcached=99.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '9%', '100%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '9%', '100%']  memcached=101.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '8%', '100%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '8%', '100%']  memcached=101.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '8%', '100%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '9%', '100%']  memcached=99.8%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '94%', '100%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['100%', '100%', '14%', '100%']  memcached=100.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['92%', '100%', '7%', '100%']  memcached=81.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['86%', '100%', '6%', '100%']  memcached=91.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['95%', '100%', '10%', '100%']  memcached=91.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['94%', '100%', '7%', '100%']  memcached=94.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['95%', '100%', '6%', '100%']  memcached=92.0%
+[scheduler] active=['canneal', 'vips']  done=['freqmine', 'radix', 'blackscholes']
+[monitor] ['94%', '100%', '8%', '100%']  memcached=121.0%
+[vips] finished
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['37%', '38%', '5%', '100%']  memcached=73.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['36%', '37%', '5%', '100%']  memcached=73.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['36%', '36%', '6%', '100%']  memcached=73.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['35%', '36%', '4%', '100%']  memcached=71.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['36%', '35%', '5%', '100%']  memcached=72.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['83%', '83%', '10%', '100%']  memcached=157.9%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['85%', '84%', '16%', '95%']  memcached=157.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['89%', '84%', '100%', '7%']  memcached=155.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['86%', '81%', '100%', '7%']  memcached=157.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['87%', '81%', '100%', '8%']  memcached=156.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['48%', '41%', '100%', '3%']  memcached=82.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['48%', '44%', '100%', '3%']  memcached=83.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['47%', '43%', '100%', '6%']  memcached=84.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['47%', '41%', '100%', '5%']  memcached=85.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['46%', '42%', '100%', '3%']  memcached=84.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['61%', '56%', '100%', '4%']  memcached=99.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['59%', '53%', '100%', '4%']  memcached=104.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['60%', '54%', '100%', '4%']  memcached=103.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['60%', '55%', '100%', '5%']  memcached=102.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['62%', '57%', '100%', '6%']  memcached=102.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['38%', '33%', '100%', '4%']  memcached=75.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['38%', '35%', '100%', '4%']  memcached=72.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['40%', '37%', '100%', '5%']  memcached=72.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['39%', '34%', '100%', '3%']  memcached=73.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['38%', '34%', '100%', '2%']  memcached=71.0%
+[scheduler] active=['canneal']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['13%', '8%', '93%', '9%']  memcached=37.0%
+[memcached] cores → [0]
+[streamcluster] started on [1]
+[scheduler] active=['canneal', 'streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['16%', '100%', '4%', '100%']  memcached=27.0%
+[scheduler] active=['canneal', 'streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips']
+[monitor] ['18%', '100%', '9%', '66%']  memcached=26.0%
+[canneal] finished
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['15%', '100%', '3%', '2%']  memcached=27.0%
+[streamcluster] cores → [1, 2, 3]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['15%', '100%', '4%', '1%']  memcached=53.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['100%', '66%', '7%', '44%']  memcached=101.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['97%', '96%', '16%', '100%']  memcached=158.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['90%', '89%', '17%', '100%']  memcached=167.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['73%', '68%', '73%', '100%']  memcached=185.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['70%', '66%', '71%', '100%']  memcached=161.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['56%', '56%', '58%', '100%']  memcached=140.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['63%', '71%', '64%', '70%']  memcached=142.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['58%', '63%', '59%', '86%']  memcached=139.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['55%', '55%', '56%', '99%']  memcached=131.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['56%', '56%', '56%', '100%']  memcached=175.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['76%', '75%', '77%', '100%']  memcached=199.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '77%', '79%', '87%']  memcached=194.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['75%', '73%', '75%', '100%']  memcached=190.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['76%', '74%', '76%', '100%']  memcached=199.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['77%', '75%', '76%', '96%']  memcached=232.8%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['92%', '93%', '91%', '100%']  memcached=244.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['89%', '87%', '88%', '100%']  memcached=243.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['92%', '88%', '90%', '100%']  memcached=237.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['88%', '83%', '86%', '100%']  memcached=240.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['92%', '89%', '90%', '100%']  memcached=225.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['72%', '68%', '72%', '100%']  memcached=187.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['71%', '68%', '71%', '100%']  memcached=182.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['74%', '70%', '73%', '100%']  memcached=182.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['73%', '74%', '75%', '88%']  memcached=187.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['73%', '71%', '74%', '100%']  memcached=132.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['36%', '71%', '36%', '47%']  memcached=79.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '100%', '4%', '2%']  memcached=59.0%
+[memcached] cores → [0]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['65%', '100%', '4%', '3%']  memcached=60.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '100%', '3%', '2%']  memcached=59.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['63%', '44%', '5%', '64%']  memcached=39.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['11%', '1%', '1%', '100%']  memcached=23.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['10%', '59%', '2%', '45%']  memcached=23.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['11%', '100%', '3%', '3%']  memcached=22.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['10%', '20%', '15%', '70%']  memcached=23.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['10%', '43%', '1%', '60%']  memcached=69.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['100%', '72%', '8%', '37%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['86%', '87%', '10%', '100%']  memcached=147.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['81%', '83%', '10%', '98%']  memcached=147.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '81%', '8%', '100%']  memcached=147.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '80%', '13%', '100%']  memcached=141.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '79%', '8%', '100%']  memcached=143.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['76%', '78%', '9%', '100%']  memcached=146.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['80%', '81%', '15%', '100%']  memcached=145.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '80%', '11%', '100%']  memcached=140.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '80%', '10%', '100%']  memcached=170.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['76%', '75%', '80%', '92%']  memcached=203.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['77%', '74%', '81%', '97%']  memcached=209.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '77%', '82%', '100%']  memcached=206.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '74%', '80%', '100%']  memcached=199.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '75%', '80%', '100%']  memcached=146.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['51%', '62%', '51%', '73%']  memcached=110.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['55%', '72%', '55%', '59%']  memcached=111.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['57%', '77%', '56%', '53%']  memcached=115.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['55%', '78%', '57%', '47%']  memcached=115.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['47%', '46%', '48%', '100%']  memcached=78.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['23%', '43%', '2%', '76%']  memcached=38.0%
+[memcached] cores → [0]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['33%', '78%', '4%', '26%']  memcached=38.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['34%', '100%', '3%', '2%']  memcached=38.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['32%', '20%', '2%', '84%']  memcached=37.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['33%', '4%', '2%', '100%']  memcached=86.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['81%', '84%', '12%', '100%']  memcached=147.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '83%', '13%', '100%']  memcached=144.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '80%', '14%', '100%']  memcached=146.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '81%', '12%', '100%']  memcached=151.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '80%', '10%', '98%']  memcached=122.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['66%', '67%', '8%', '100%']  memcached=118.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['66%', '67%', '7%', '100%']  memcached=121.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['67%', '69%', '7%', '98%']  memcached=118.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['67%', '69%', '8%', '100%']  memcached=118.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['68%', '70%', '8%', '91%']  memcached=96.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['51%', '51%', '7%', '100%']  memcached=75.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['58%', '63%', '7%', '81%']  memcached=72.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['76%', '95%', '7%', '15%']  memcached=72.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['61%', '67%', '7%', '71%']  memcached=92.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['52%', '51%', '6%', '100%']  memcached=101.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['77%', '89%', '6%', '32%']  memcached=98.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['60%', '62%', '7%', '91%']  memcached=93.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['72%', '81%', '6%', '49%']  memcached=88.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['57%', '56%', '7%', '100%']  memcached=101.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['60%', '60%', '7%', '97%']  memcached=67.0%
+[memcached] cores → [0]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['59%', '89%', '4%', '15%']  memcached=54.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['58%', '100%', '5%', '2%']  memcached=55.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['60%', '99%', '7%', '4%']  memcached=53.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['59%', '100%', '5%', '2%']  memcached=56.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['60%', '88%', '5%', '15%']  memcached=96.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '78%', '7%', '96%']  memcached=134.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['77%', '77%', '8%', '99%']  memcached=133.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['75%', '75%', '9%', '98%']  memcached=138.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['74%', '76%', '9%', '100%']  memcached=137.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['78%', '80%', '10%', '98%']  memcached=147.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '84%', '12%', '100%']  memcached=145.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['83%', '78%', '100%', '6%']  memcached=142.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '77%', '100%', '10%']  memcached=145.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '77%', '100%', '7%']  memcached=146.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['83%', '78%', '100%', '6%']  memcached=112.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '59%', '100%', '5%']  memcached=108.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '59%', '100%', '5%']  memcached=110.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['66%', '62%', '100%', '3%']  memcached=108.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '58%', '100%', '4%']  memcached=106.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '59%', '94%', '14%']  memcached=102.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['61%', '62%', '8%', '100%']  memcached=109.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['65%', '67%', '8%', '85%']  memcached=106.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '88%', '8%', '37%']  memcached=107.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['62%', '62%', '8%', '96%']  memcached=111.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['62%', '65%', '7%', '97%']  memcached=187.9%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '80%', '86%', '98%']  memcached=214.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['79%', '79%', '87%', '100%']  memcached=223.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['83%', '81%', '83%', '100%']  memcached=233.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['83%', '84%', '86%', '98%']  memcached=221.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['80%', '79%', '82%', '99%']  memcached=17.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['6%', '39%', '2%', '67%']  memcached=11.0%
+[memcached] cores → [0]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['5%', '100%', '3%', '1%']  memcached=12.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['5%', '11%', '1%', '92%']  memcached=11.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['6%', '100%', '2%', '1%']  memcached=11.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['5%', '27%', '1%', '75%']  memcached=24.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['12%', '44%', '3%', '60%']  memcached=24.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['11%', '94%', '3%', '7%']  memcached=25.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['12%', '81%', '2%', '22%']  memcached=24.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['11%', '2%', '1%', '100%']  memcached=24.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['11%', '3%', '2%', '100%']  memcached=14.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['6%', '2%', '1%', '100%']  memcached=13.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['7%', '70%', '3%', '33%']  memcached=14.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['7%', '2%', '2%', '100%']  memcached=14.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['5%', '1%', '0%', '100%']  memcached=14.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['11%', '76%', '2%', '26%']  memcached=75.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['81%', '68%', '5%', '39%']  memcached=75.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '67%', '5%', '41%']  memcached=76.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['83%', '30%', '5%', '77%']  memcached=77.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '5%', '4%', '100%']  memcached=75.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['77%', '100%', '5%', '3%']  memcached=26.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['16%', '100%', '3%', '1%']  memcached=27.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['15%', '54%', '3%', '49%']  memcached=26.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['14%', '66%', '4%', '38%']  memcached=27.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['12%', '8%', '1%', '94%']  memcached=27.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['23%', '3%', '2%', '100%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['89%', '89%', '12%', '100%']  memcached=162.9%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['75%', '79%', '77%', '66%']  memcached=178.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['71%', '72%', '75%', '93%']  memcached=189.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['71%', '71%', '74%', '100%']  memcached=181.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['65%', '62%', '67%', '100%']  memcached=48.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['20%', '98%', '3%', '4%']  memcached=30.0%
+[memcached] cores → [0]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['19%', '68%', '4%', '36%']  memcached=30.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['19%', '53%', '3%', '52%']  memcached=30.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['20%', '3%', '2%', '100%']  memcached=29.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['33%', '86%', '3%', '17%']  memcached=101.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['86%', '87%', '13%', '100%']  memcached=158.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['84%', '85%', '9%', '100%']  memcached=149.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['82%', '83%', '9%', '100%']  memcached=151.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['84%', '85%', '12%', '100%']  memcached=165.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['66%', '68%', '67%', '87%']  memcached=106.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['40%', '40%', '39%', '100%']  memcached=106.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['44%', '69%', '44%', '57%']  memcached=106.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['47%', '74%', '47%', '49%']  memcached=92.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['51%', '53%', '7%', '93%']  memcached=91.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['42%', '41%', '3%', '100%']  memcached=28.0%
+[memcached] cores → [0]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['14%', '100%', '3%', '2%']  memcached=27.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['12%', '2%', '1%', '100%']  memcached=26.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['14%', '56%', '2%', '48%']  memcached=27.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['14%', '97%', '3%', '4%']  memcached=27.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['36%', '98%', '3%', '4%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['98%', '98%', '18%', '100%']  memcached=169.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['76%', '72%', '77%', '100%']  memcached=201.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['77%', '72%', '78%', '99%']  memcached=199.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['75%', '74%', '78%', '96%']  memcached=199.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['66%', '70%', '75%', '94%']  memcached=125.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '98%', '69%', '11%']  memcached=121.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['60%', '78%', '63%', '54%']  memcached=121.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['57%', '69%', '59%', '68%']  memcached=119.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['64%', '88%', '67%', '32%']  memcached=131.0%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['61%', '63%', '62%', '100%']  memcached=239.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['85%', '86%', '86%', '100%']  memcached=229.9%
+[scheduler] active=['streamcluster']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal']
+[monitor] ['85%', '83%', '88%', '99%']  memcached=241.9%
+[streamcluster] finished
+[scheduler] active=[]  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['85%', '82%', '87%', '10%']  memcached=235.0%
+[barnes] started on [3]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['86%', '86%', '89%', '100%']  memcached=250.8%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['56%', '54%', '57%', '100%']  memcached=55.0%
+[memcached] cores → [0, 1]
+[barnes] cores → [3, 2]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['17%', '17%', '3%', '100%']  memcached=45.0%
+[memcached] cores → [0]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['23%', '2%', '1%', '100%']  memcached=34.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['26%', '2%', '2%', '100%']  memcached=34.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['26%', '2%', '2%', '100%']  memcached=35.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['65%', '4%', '3%', '100%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['100%', '100%', '18%', '100%']  memcached=191.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['79%', '75%', '82%', '100%']  memcached=203.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['77%', '72%', '79%', '100%']  memcached=200.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['77%', '72%', '79%', '100%']  memcached=202.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['76%', '72%', '79%', '100%']  memcached=189.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['77%', '72%', '77%', '100%']  memcached=197.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['78%', '71%', '78%', '100%']  memcached=203.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['76%', '70%', '77%', '100%']  memcached=198.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['74%', '68%', '76%', '100%']  memcached=193.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['74%', '74%', '84%', '100%']  memcached=230.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['78%', '76%', '87%', '100%']  memcached=236.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['79%', '80%', '89%', '100%']  memcached=218.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['78%', '78%', '88%', '100%']  memcached=238.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['78%', '79%', '89%', '100%']  memcached=232.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['52%', '51%', '56%', '100%']  memcached=79.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['31%', '31%', '4%', '100%']  memcached=66.0%
+[memcached] cores → [0]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['52%', '3%', '2%', '100%']  memcached=50.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['54%', '3%', '3%', '100%']  memcached=49.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['51%', '3%', '3%', '100%']  memcached=51.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['36%', '3%', '3%', '100%']  memcached=30.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['17%', '2%', '1%', '100%']  memcached=29.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['19%', '2%', '2%', '100%']  memcached=30.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['18%', '2%', '2%', '100%']  memcached=30.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['18%', '2%', '2%', '100%']  memcached=31.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['70%', '3%', '3%', '100%']  memcached=100.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['75%', '75%', '11%', '100%']  memcached=129.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['72%', '71%', '8%', '100%']  memcached=133.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['75%', '75%', '9%', '100%']  memcached=130.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['77%', '77%', '11%', '100%']  memcached=135.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['67%', '67%', '8%', '100%']  memcached=102.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['58%', '58%', '5%', '100%']  memcached=105.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['58%', '58%', '7%', '100%']  memcached=104.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['59%', '58%', '9%', '100%']  memcached=103.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['61%', '61%', '7%', '100%']  memcached=103.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['76%', '75%', '8%', '100%']  memcached=162.0%
+[memcached] cores → [0, 1, 2]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['69%', '68%', '76%', '100%']  memcached=185.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['70%', '68%', '76%', '100%']  memcached=196.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['69%', '69%', '75%', '100%']  memcached=196.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['70%', '70%', '77%', '100%']  memcached=192.9%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['36%', '34%', '37%', '100%']  memcached=48.0%
+[memcached] cores → [0, 1]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['11%', '11%', '1%', '100%']  memcached=40.0%
+[memcached] cores → [0]
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['17%', '3%', '2%', '100%']  memcached=29.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['21%', '3%', '2%', '100%']  memcached=30.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['19%', '2%', '2%', '100%']  memcached=31.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['38%', '2%', '1%', '100%']  memcached=45.0%
+[scheduler] active=['barnes']  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster']
+[monitor] ['49%', '7%', '7%', '61%']  memcached=46.0%
+[barnes] finished
+[scheduler] active=[]  done=['freqmine', 'radix', 'blackscholes', 'vips', 'canneal', 'streamcluster', 'barnes']

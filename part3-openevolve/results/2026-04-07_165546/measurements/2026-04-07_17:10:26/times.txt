@@ -1,0 +1,8 @@
+parsec-barnes: 0:01:59
+parsec-blackscholes: 0:00:56
+parsec-canneal: 0:02:55
+parsec-freqmine: 0:01:57
+parsec-radix: 0:00:24
+parsec-streamcluster: 0:03:06
+parsec-vips: 0:01:11
+Total: 0:04:22

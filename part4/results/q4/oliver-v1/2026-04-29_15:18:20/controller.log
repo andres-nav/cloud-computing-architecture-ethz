@@ -1,0 +1,1298 @@
+Scheduler started.
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[radix] started on cores: [3] with 1 threads.
+[monitor] ['2%', '2%', '1%', '100%']  memcached=5.5%
+[MEMCACHED] cores updated to: ['0']
+[barnes] started on cores: [1, 2] with 2 threads.
+[monitor] ['49%', '18%', '89%', '100%']  memcached=48.7%
+[monitor] ['89%', '57%', '100%', '100%']  memcached=89.0%
+[MEMCACHED] cores updated to: ['0', '3']
+[radix] paused.
+[monitor] ['34%', '100%', '100%', '25%']  memcached=58.4%
+[MEMCACHED] cores updated to: ['0']
+[radix] unpaused.
+[monitor] ['79%', '100%', '94%', '100%']  memcached=79.4%
+[monitor] ['80%', '100%', '100%', '100%']  memcached=80.3%
+[monitor] ['99%', '100%', '100%', '100%']  memcached=99.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[barnes] paused.
+[monitor] ['95%', '92%', '92%', '100%']  memcached=279.4%
+[monitor] ['67%', '61%', '50%', '100%']  memcached=178.5%
+[monitor] ['65%', '59%', '46%', '100%']  memcached=169.5%
+[monitor] ['63%', '60%', '51%', '100%']  memcached=174.0%
+[monitor] ['23%', '18%', '11%', '100%']  memcached=52.5%
+[MEMCACHED] cores updated to: ['0']
+[barnes] unpaused.
+[monitor] ['97%', '100%', '100%', '100%']  memcached=96.6%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[barnes] paused.
+[monitor] ['23%', '17%', '12%', '100%']  memcached=52.1%
+[MEMCACHED] cores updated to: ['0']
+[barnes] unpaused.
+[monitor] ['98%', '100%', '100%', '100%']  memcached=97.8%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[barnes] paused.
+[monitor] ['15%', '12%', '5%', '100%']  memcached=31.1%
+[MEMCACHED] cores updated to: ['0']
+[barnes] unpaused.
+[monitor] ['40%', '100%', '100%', '100%']  memcached=40.4%
+[monitor] ['53%', '100%', '100%', '100%']  memcached=53.1%
+[monitor] ['56%', '100%', '100%', '100%']  memcached=55.8%
+[monitor] ['43%', '100%', '100%', '100%']  memcached=42.6%
+[monitor] ['79%', '100%', '100%', '100%']  memcached=79.4%
+[monitor] ['84%', '100%', '100%', '100%']  memcached=84.4%
+[monitor] ['89%', '100%', '100%', '100%']  memcached=88.6%
+[MEMCACHED] cores updated to: ['0', '3']
+[radix] paused.
+[monitor] ['26%', '100%', '100%', '19%']  memcached=45.1%
+[MEMCACHED] cores updated to: ['0']
+[radix] unpaused.
+[monitor] ['76%', '100%', '100%', '100%']  memcached=75.8%
+[monitor] ['30%', '100%', '100%', '100%']  memcached=30.4%
+[monitor] ['31%', '100%', '100%', '100%']  memcached=31.1%
+[monitor] ['36%', '100%', '100%', '100%']  memcached=36.2%
+[monitor] ['34%', '100%', '100%', '100%']  memcached=34.0%
+[monitor] ['72%', '100%', '100%', '100%']  memcached=72.1%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[barnes] paused.
+[monitor] ['100%', '100%', '100%', '100%']  memcached=300.0%
+[monitor] ['90%', '100%', '75%', '100%']  memcached=264.7%
+[monitor] ['89%', '99%', '72%', '100%']  memcached=260.0%
+[monitor] ['88%', '97%', '65%', '100%']  memcached=249.0%
+[monitor] ['85%', '99%', '68%', '100%']  memcached=252.5%
+[monitor] ['72%', '84%', '54%', '100%']  memcached=210.0%
+[monitor] ['78%', '93%', '62%', '100%']  memcached=232.3%
+[monitor] ['71%', '97%', '58%', '100%']  memcached=226.4%
+[monitor] ['70%', '97%', '55%', '100%']  memcached=221.5%
+[monitor] ['67%', '75%', '52%', '100%']  memcached=194.3%
+[monitor] ['67%', '65%', '58%', '89%']  memcached=189.7%
+[radix] ended.
+[blackscholes] started on cores: [3] with 3 threads.
+[monitor] ['58%', '65%', '47%', '100%']  memcached=169.5%
+[monitor] ['34%', '37%', '22%', '100%']  memcached=93.0%
+[MEMCACHED] cores updated to: ['0', '2']
+[barnes] unpaused.
+[barnes] cores updated to: [1, 3]
+[blackscholes] paused.
+[monitor] ['29%', '100%', '9%', '100%']  memcached=38.6%
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] unpaused.
+[blackscholes] cores updated to: [2]
+[monitor] ['30%', '100%', '100%', '84%']  memcached=30.4%
+[monitor] ['35%', '97%', '100%', '100%']  memcached=34.8%
+[monitor] ['45%', '100%', '100%', '100%']  memcached=44.9%
+[monitor] ['19%', '100%', '100%', '100%']  memcached=19.3%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.6%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=12.4%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=14.1%
+[monitor] ['26%', '100%', '100%', '100%']  memcached=25.8%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[barnes] paused.
+[monitor] ['33%', '100%', '100%', '19%']  memcached=152.1%
+[MEMCACHED] cores updated to: ['0', '3']
+[barnes] unpaused.
+[barnes] cores updated to: [1, 2]
+[blackscholes] paused.
+[monitor] ['17%', '100%', '100%', '8%']  memcached=24.7%
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] unpaused.
+[blackscholes] cores updated to: [3]
+[monitor] ['20%', '100%', '100%', '100%']  memcached=19.5%
+[monitor] ['13%', '100%', '100%', '100%']  memcached=13.4%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.0%
+[monitor] ['15%', '100%', '100%', '100%']  memcached=15.0%
+[monitor] ['59%', '100%', '100%', '100%']  memcached=59.3%
+[monitor] ['54%', '100%', '100%', '100%']  memcached=54.0%
+[monitor] ['54%', '100%', '100%', '100%']  memcached=54.2%
+[monitor] ['50%', '100%', '100%', '100%']  memcached=50.0%
+[monitor] ['33%', '100%', '27%', '100%']  memcached=33.3%
+[monitor] ['10%', '90%', '47%', '100%']  memcached=10.3%
+[monitor] ['11%', '100%', '89%', '100%']  memcached=10.6%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=9.4%
+[monitor] ['8%', '100%', '100%', '100%']  memcached=7.9%
+[monitor] ['66%', '100%', '100%', '100%']  memcached=66.3%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[barnes] paused.
+[monitor] ['100%', '86%', '100%', '100%']  memcached=286.0%
+[monitor] ['63%', '53%', '51%', '100%']  memcached=166.9%
+[monitor] ['67%', '57%', '51%', '100%']  memcached=174.4%
+[monitor] ['23%', '8%', '8%', '100%']  memcached=39.7%
+[MEMCACHED] cores updated to: ['0']
+[barnes] unpaused.
+[monitor] ['17%', '100%', '100%', '100%']  memcached=17.2%
+[monitor] ['16%', '100%', '100%', '100%']  memcached=16.5%
+[monitor] ['18%', '100%', '100%', '100%']  memcached=17.6%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=7.4%
+[monitor] ['8%', '100%', '100%', '100%']  memcached=8.3%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=9.5%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=5.8%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.0%
+[monitor] ['41%', '100%', '100%', '100%']  memcached=40.7%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[barnes] paused.
+[monitor] ['73%', '72%', '71%', '100%']  memcached=217.1%
+[monitor] ['40%', '34%', '28%', '100%']  memcached=102.3%
+[MEMCACHED] cores updated to: ['0', '2']
+[barnes] unpaused.
+[barnes] cores updated to: [1, 3]
+[blackscholes] paused.
+[monitor] ['75%', '100%', '78%', '100%']  memcached=153.5%
+[monitor] ['32%', '100%', '21%', '100%']  memcached=53.3%
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] unpaused.
+[blackscholes] cores updated to: [2]
+[monitor] ['21%', '26%', '100%', '76%']  memcached=21.5%
+[monitor] ['19%', '2%', '100%', '100%']  memcached=19.0%
+[monitor] ['12%', '84%', '100%', '100%']  memcached=11.8%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=9.7%
+[monitor] ['76%', '100%', '100%', '100%']  memcached=76.1%
+[monitor] ['87%', '100%', '100%', '100%']  memcached=87.3%
+[MEMCACHED] cores updated to: ['0', '2']
+[blackscholes] paused.
+[monitor] ['33%', '100%', '23%', '100%']  memcached=56.0%
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] unpaused.
+[monitor] ['83%', '100%', '100%', '100%']  memcached=82.8%
+[monitor] ['68%', '100%', '100%', '100%']  memcached=67.6%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=6.2%
+[monitor] ['8%', '100%', '100%', '100%']  memcached=7.8%
+[monitor] ['8%', '100%', '100%', '100%']  memcached=7.9%
+[monitor] ['2%', '100%', '100%', '100%']  memcached=1.7%
+[monitor] ['67%', '100%', '100%', '100%']  memcached=66.7%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[barnes] paused.
+[monitor] ['97%', '100%', '100%', '92%']  memcached=289.2%
+[monitor] ['61%', '74%', '100%', '43%']  memcached=178.9%
+[monitor] ['62%', '61%', '100%', '43%']  memcached=166.8%
+[monitor] ['15%', '9%', '100%', '7%']  memcached=30.4%
+[MEMCACHED] cores updated to: ['0']
+[barnes] unpaused.
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.7%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=10.2%
+[monitor] ['19%', '100%', '100%', '100%']  memcached=18.9%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.7%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[barnes] paused.
+[monitor] ['49%', '40%', '100%', '29%']  memcached=117.5%
+[MEMCACHED] cores updated to: ['0', '3']
+[barnes] unpaused.
+[barnes] cores updated to: [1, 2]
+[blackscholes] paused.
+[monitor] ['55%', '100%', '100%', '45%']  memcached=99.3%
+[monitor] ['58%', '100%', '100%', '45%']  memcached=103.1%
+[monitor] ['62%', '100%', '100%', '50%']  memcached=111.9%
+[monitor] ['58%', '100%', '78%', '47%']  memcached=104.4%
+[monitor] ['47%', '4%', '1%', '43%']  memcached=89.1%
+[barnes] ended.
+[blackscholes] unpaused.
+[blackscholes] cores updated to: [1, 2]
+[monitor] ['62%', '100%', '100%', '42%']  memcached=104.3%
+[monitor] ['65%', '100%', '100%', '44%']  memcached=108.3%
+[monitor] ['46%', '100%', '100%', '38%']  memcached=83.7%
+[monitor] ['30%', '100%', '100%', '23%']  memcached=53.2%
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] cores updated to: [3, 1, 2]
+[monitor] ['71%', '100%', '100%', '100%']  memcached=70.9%
+[monitor] ['67%', '100%', '100%', '100%']  memcached=67.3%
+[monitor] ['71%', '100%', '100%', '100%']  memcached=70.7%
+[monitor] ['91%', '100%', '100%', '100%']  memcached=90.7%
+[MEMCACHED] cores updated to: ['0', '3']
+[blackscholes] cores updated to: [1, 2]
+[monitor] ['32%', '64%', '70%', '22%']  memcached=53.8%
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] cores updated to: [3, 1, 2]
+[monitor] ['79%', '100%', '2%', '1%']  memcached=79.4%
+[monitor] ['78%', '100%', '6%', '3%']  memcached=78.0%
+[monitor] ['73%', '100%', '5%', '1%']  memcached=73.0%
+[monitor] ['8%', '14%', '1%', '88%']  memcached=8.0%
+[monitor] ['19%', '88%', '15%', '21%']  memcached=18.9%
+[monitor] ['8%', '1%', '0%', '19%']  memcached=8.2%
+[blackscholes] ended.
+[canneal] started on cores: [1, 2, 3] with 3 threads.
+[monitor] ['59%', '21%', '20%', '75%']  memcached=59.1%
+[monitor] ['100%', '4%', '3%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[canneal] cores updated to: [3]
+[monitor] ['46%', '61%', '49%', '100%']  memcached=156.5%
+[MEMCACHED] cores updated to: ['0', '2']
+[canneal] cores updated to: [1, 3]
+[monitor] ['60%', '27%', '72%', '84%']  memcached=131.6%
+[monitor] ['53%', '100%', '67%', '3%']  memcached=120.7%
+[monitor] ['49%', '100%', '34%', '2%']  memcached=83.7%
+[monitor] ['16%', '100%', '9%', '1%']  memcached=24.2%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [1, 2, 3]
+[monitor] ['23%', '2%', '0%', '100%']  memcached=23.4%
+[monitor] ['18%', '1%', '0%', '100%']  memcached=18.2%
+[monitor] ['23%', '1%', '1%', '100%']  memcached=23.4%
+[monitor] ['46%', '90%', '1%', '15%']  memcached=46.0%
+[monitor] ['56%', '59%', '22%', '51%']  memcached=55.8%
+[monitor] ['53%', '94%', '2%', '10%']  memcached=53.2%
+[monitor] ['54%', '5%', '2%', '100%']  memcached=54.0%
+[monitor] ['62%', '4%', '1%', '100%']  memcached=61.8%
+[monitor] ['17%', '17%', '0%', '88%']  memcached=17.0%
+[monitor] ['14%', '60%', '2%', '46%']  memcached=14.0%
+[monitor] ['10%', '84%', '3%', '20%']  memcached=10.2%
+[monitor] ['12%', '100%', '2%', '1%']  memcached=12.0%
+[monitor] ['10%', '100%', '3%', '0%']  memcached=10.4%
+[monitor] ['1%', '100%', '1%', '1%']  memcached=1.4%
+[monitor] ['3%', '100%', '2%', '2%']  memcached=2.8%
+[monitor] ['4%', '100%', '1%', '0%']  memcached=4.1%
+[monitor] ['4%', '100%', '2%', '1%']  memcached=4.2%
+[monitor] ['4%', '100%', '1%', '1%']  memcached=4.2%
+[monitor] ['98%', '75%', '5%', '37%']  memcached=98.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[canneal] cores updated to: [2]
+[monitor] ['58%', '54%', '100%', '34%']  memcached=145.9%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [1, 2]
+[monitor] ['77%', '9%', '100%', '70%']  memcached=146.8%
+[monitor] ['77%', '4%', '100%', '68%']  memcached=145.8%
+[monitor] ['72%', '7%', '100%', '64%']  memcached=136.0%
+[monitor] ['40%', '2%', '100%', '24%']  memcached=64.0%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [1, 2, 3]
+[monitor] ['86%', '35%', '18%', '60%']  memcached=85.7%
+[MEMCACHED] cores updated to: ['0', '2']
+[canneal] cores updated to: [1, 3]
+[monitor] ['33%', '96%', '33%', '10%']  memcached=66.1%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [1, 2, 3]
+[monitor] ['86%', '9%', '5%', '99%']  memcached=85.9%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [1, 2]
+[monitor] ['57%', '5%', '100%', '46%']  memcached=102.5%
+[monitor] ['87%', '7%', '100%', '84%']  memcached=170.3%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[canneal] cores updated to: [2]
+[monitor] ['62%', '48%', '100%', '34%']  memcached=144.7%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [1, 2]
+[monitor] ['84%', '8%', '100%', '78%']  memcached=162.2%
+[monitor] ['81%', '7%', '100%', '75%']  memcached=156.0%
+[monitor] ['89%', '7%', '100%', '92%']  memcached=180.9%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[canneal] cores updated to: [1]
+[monitor] ['88%', '100%', '72%', '67%']  memcached=226.5%
+[monitor] ['86%', '100%', '68%', '63%']  memcached=217.0%
+[monitor] ['88%', '100%', '73%', '63%']  memcached=223.9%
+[monitor] ['87%', '100%', '67%', '65%']  memcached=219.1%
+[monitor] ['47%', '100%', '36%', '38%']  memcached=121.1%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [1, 2]
+[monitor] ['80%', '98%', '93%', '64%']  memcached=144.2%
+[monitor] ['76%', '97%', '92%', '52%']  memcached=128.1%
+[monitor] ['76%', '97%', '90%', '58%']  memcached=134.1%
+[monitor] ['75%', '97%', '95%', '68%']  memcached=142.3%
+[monitor] ['19%', '96%', '94%', '5%']  memcached=23.3%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [3, 1, 2]
+[monitor] ['30%', '99%', '95%', '95%']  memcached=29.8%
+[monitor] ['34%', '91%', '99%', '86%']  memcached=34.1%
+[monitor] ['35%', '97%', '96%', '92%']  memcached=35.4%
+[monitor] ['21%', '100%', '96%', '96%']  memcached=21.2%
+[monitor] ['13%', '98%', '96%', '95%']  memcached=13.2%
+[monitor] ['24%', '97%', '96%', '96%']  memcached=23.6%
+[monitor] ['18%', '97%', '96%', '96%']  memcached=17.9%
+[monitor] ['21%', '100%', '94%', '98%']  memcached=21.3%
+[monitor] ['51%', '97%', '96%', '94%']  memcached=51.1%
+[monitor] ['100%', '100%', '94%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[canneal] cores updated to: [1]
+[monitor] ['54%', '100%', '49%', '29%']  memcached=132.0%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [2, 1]
+[monitor] ['59%', '96%', '95%', '43%']  memcached=101.9%
+[monitor] ['61%', '97%', '94%', '42%']  memcached=103.7%
+[monitor] ['60%', '96%', '93%', '41%']  memcached=100.4%
+[monitor] ['53%', '96%', '95%', '42%']  memcached=95.2%
+[monitor] ['59%', '95%', '93%', '48%']  memcached=107.6%
+[monitor] ['59%', '96%', '95%', '42%']  memcached=100.8%
+[monitor] ['58%', '96%', '93%', '46%']  memcached=103.8%
+[monitor] ['75%', '95%', '94%', '70%']  memcached=144.6%
+[monitor] ['84%', '97%', '92%', '78%']  memcached=162.5%
+[monitor] ['88%', '94%', '95%', '85%']  memcached=173.3%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[canneal] cores updated to: [2]
+[monitor] ['56%', '48%', '100%', '39%']  memcached=143.8%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [2, 1]
+[monitor] ['85%', '96%', '93%', '76%']  memcached=161.1%
+[monitor] ['33%', '93%', '95%', '24%']  memcached=57.5%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['85%', '99%', '96%', '93%']  memcached=84.8%
+[monitor] ['82%', '100%', '96%', '94%']  memcached=82.1%
+[monitor] ['84%', '100%', '97%', '94%']  memcached=83.8%
+[monitor] ['77%', '99%', '98%', '93%']  memcached=76.9%
+[monitor] ['7%', '100%', '96%', '97%']  memcached=7.3%
+[monitor] ['7%', '100%', '94%', '97%']  memcached=7.0%
+[monitor] ['12%', '100%', '94%', '98%']  memcached=11.7%
+[monitor] ['15%', '100%', '95%', '97%']  memcached=15.3%
+[monitor] ['38%', '100%', '91%', '95%']  memcached=37.9%
+[monitor] ['100%', '99%', '91%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[canneal] cores updated to: [1]
+[monitor] ['46%', '100%', '46%', '36%']  memcached=128.0%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [2, 1]
+[monitor] ['57%', '97%', '94%', '47%']  memcached=104.4%
+[monitor] ['55%', '97%', '94%', '47%']  memcached=101.7%
+[monitor] ['44%', '96%', '94%', '32%']  memcached=76.1%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['94%', '99%', '96%', '93%']  memcached=93.8%
+[MEMCACHED] cores updated to: ['0', '1']
+[canneal] cores updated to: [2, 3]
+[monitor] ['32%', '38%', '94%', '95%']  memcached=69.8%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['95%', '99%', '94%', '93%']  memcached=95.3%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[canneal] cores updated to: [1]
+[monitor] ['15%', '100%', '11%', '10%']  memcached=35.4%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['69%', '99%', '96%', '94%']  memcached=69.0%
+[monitor] ['61%', '100%', '96%', '94%']  memcached=60.8%
+[monitor] ['61%', '99%', '96%', '94%']  memcached=60.8%
+[monitor] ['62%', '100%', '94%', '94%']  memcached=62.3%
+[monitor] ['60%', '100%', '96%', '94%']  memcached=60.4%
+[monitor] ['76%', '100%', '96%', '94%']  memcached=76.3%
+[monitor] ['79%', '100%', '95%', '92%']  memcached=79.0%
+[monitor] ['78%', '100%', '95%', '93%']  memcached=77.6%
+[monitor] ['75%', '99%', '96%', '94%']  memcached=75.4%
+[monitor] ['75%', '100%', '96%', '93%']  memcached=74.6%
+[monitor] ['22%', '100%', '96%', '96%']  memcached=21.7%
+[monitor] ['22%', '99%', '95%', '95%']  memcached=22.2%
+[monitor] ['28%', '99%', '95%', '94%']  memcached=28.3%
+[monitor] ['22%', '100%', '97%', '95%']  memcached=21.7%
+[monitor] ['44%', '99%', '95%', '95%']  memcached=43.6%
+[monitor] ['100%', '100%', '94%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[canneal] cores updated to: [2]
+[monitor] ['29%', '25%', '100%', '19%']  memcached=72.7%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['100%', '100%', '95%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[canneal] cores updated to: [3]
+[monitor] ['28%', '25%', '18%', '100%']  memcached=71.6%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['100%', '100%', '94%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[canneal] cores updated to: [1]
+[monitor] ['44%', '100%', '34%', '22%']  memcached=100.3%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [2, 1]
+[monitor] ['69%', '97%', '94%', '48%']  memcached=116.2%
+[monitor] ['67%', '98%', '94%', '44%']  memcached=111.3%
+[monitor] ['69%', '96%', '96%', '44%']  memcached=112.8%
+[monitor] ['38%', '96%', '94%', '28%']  memcached=65.6%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['91%', '99%', '96%', '94%']  memcached=90.8%
+[MEMCACHED] cores updated to: ['0', '1']
+[canneal] cores updated to: [2, 3]
+[monitor] ['33%', '31%', '95%', '94%']  memcached=63.7%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['91%', '99%', '97%', '93%']  memcached=90.8%
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [2, 1]
+[monitor] ['31%', '97%', '94%', '21%']  memcached=51.9%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['87%', '99%', '96%', '93%']  memcached=86.6%
+[MEMCACHED] cores updated to: ['0', '2']
+[canneal] cores updated to: [1, 3]
+[monitor] ['26%', '98%', '21%', '96%']  memcached=47.1%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['85%', '99%', '96%', '93%']  memcached=84.6%
+[monitor] ['87%', '100%', '96%', '93%']  memcached=87.1%
+[MEMCACHED] cores updated to: ['0', '1']
+[canneal] cores updated to: [2, 3]
+[monitor] ['55%', '57%', '95%', '88%']  memcached=112.7%
+[monitor] ['96%', '90%', '91%', '85%']  memcached=185.6%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[canneal] cores updated to: [2]
+[monitor] ['75%', '65%', '100%', '50%']  memcached=189.8%
+[monitor] ['70%', '62%', '100%', '45%']  memcached=177.1%
+[monitor] ['67%', '62%', '100%', '41%']  memcached=169.2%
+[monitor] ['27%', '24%', '100%', '14%']  memcached=65.4%
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [2, 1, 3]
+[monitor] ['0%', '0%', '100%', '2%']  memcached=0.0%
+[monitor] ['2%', '0%', '100%', '0%']  memcached=2.3%
+[monitor] ['7%', '8%', '91%', '5%']  memcached=6.9%
+[canneal] ended.
+[monitor] ['0%', '0%', '0%', '0%']  memcached=0.0%
+[freqmine] started on cores: [1, 2, 3] with 3 threads.
+[monitor] ['8%', '14%', '55%', '40%']  memcached=7.6%
+[monitor] ['4%', '2%', '100%', '1%']  memcached=4.1%
+[monitor] ['6%', '88%', '100%', '90%']  memcached=5.6%
+[monitor] ['17%', '100%', '100%', '100%']  memcached=17.1%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=10.4%
+[monitor] ['36%', '100%', '100%', '100%']  memcached=36.0%
+[monitor] ['11%', '77%', '100%', '79%']  memcached=11.4%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=12.0%
+[monitor] ['15%', '100%', '100%', '100%']  memcached=14.9%
+[monitor] ['13%', '100%', '100%', '100%']  memcached=12.9%
+[monitor] ['57%', '100%', '100%', '100%']  memcached=57.1%
+[monitor] ['98%', '100%', '100%', '100%']  memcached=98.4%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[monitor] ['28%', '13%', '8%', '100%']  memcached=48.8%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [1, 2, 3]
+[monitor] ['59%', '100%', '100%', '100%']  memcached=59.2%
+[monitor] ['29%', '100%', '100%', '100%']  memcached=29.3%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=14.3%
+[monitor] ['8%', '100%', '100%', '100%']  memcached=8.2%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.0%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.1%
+[monitor] ['65%', '100%', '100%', '100%']  memcached=64.8%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[monitor] ['59%', '66%', '100%', '50%']  memcached=175.2%
+[monitor] ['42%', '34%', '100%', '25%']  memcached=100.2%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[monitor] ['67%', '100%', '100%', '52%']  memcached=118.4%
+[monitor] ['27%', '100%', '100%', '8%']  memcached=35.2%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [1, 2, 3]
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.7%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=7.5%
+[monitor] ['4%', '100%', '100%', '100%']  memcached=4.5%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.7%
+[monitor] ['98%', '100%', '100%', '100%']  memcached=98.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[monitor] ['46%', '100%', '41%', '27%']  memcached=114.4%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[monitor] ['66%', '100%', '100%', '53%']  memcached=118.7%
+[monitor] ['74%', '100%', '100%', '62%']  memcached=136.0%
+[monitor] ['68%', '100%', '100%', '46%']  memcached=113.8%
+[monitor] ['23%', '100%', '100%', '11%']  memcached=33.7%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[monitor] ['60%', '100%', '100%', '100%']  memcached=59.6%
+[monitor] ['48%', '100%', '100%', '100%']  memcached=47.9%
+[monitor] ['42%', '100%', '100%', '100%']  memcached=42.2%
+[monitor] ['29%', '100%', '100%', '100%']  memcached=29.3%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=6.9%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=10.8%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=10.5%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=12.2%
+[monitor] ['61%', '100%', '100%', '100%']  memcached=60.9%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[monitor] ['73%', '81%', '100%', '70%']  memcached=224.4%
+[monitor] ['44%', '38%', '100%', '29%']  memcached=110.6%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[monitor] ['86%', '100%', '100%', '65%']  memcached=151.6%
+[monitor] ['44%', '100%', '100%', '25%']  memcached=68.8%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[monitor] ['89%', '100%', '100%', '100%']  memcached=89.3%
+[MEMCACHED] cores updated to: ['0', '2']
+[freqmine] cores updated to: [3, 1]
+[monitor] ['30%', '100%', '23%', '100%']  memcached=52.5%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[monitor] ['89%', '100%', '99%', '100%']  memcached=88.9%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[monitor] ['36%', '100%', '100%', '25%']  memcached=61.8%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[monitor] ['100%', '100%', '99%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[monitor] ['100%', '97%', '96%', '100%']  memcached=292.6%
+[monitor] ['89%', '79%', '82%', '100%']  memcached=250.1%
+[monitor] ['76%', '67%', '59%', '100%']  memcached=201.4%
+[monitor] ['49%', '40%', '32%', '100%']  memcached=121.0%
+[MEMCACHED] cores updated to: ['0', '2']
+[freqmine] cores updated to: [3, 1]
+[monitor] ['25%', '100%', '5%', '100%']  memcached=30.2%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[monitor] ['6%', '100%', '100%', '100%']  memcached=6.2%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=10.8%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=10.9%
+[monitor] ['70%', '100%', '100%', '100%']  memcached=69.8%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[monitor] ['85%', '99%', '100%', '76%']  memcached=259.8%
+[monitor] ['48%', '50%', '100%', '33%']  memcached=131.1%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[monitor] ['88%', '100%', '100%', '59%']  memcached=146.8%
+[monitor] ['79%', '100%', '100%', '55%']  memcached=133.9%
+[monitor] ['78%', '100%', '100%', '52%']  memcached=130.5%
+[monitor] ['82%', '100%', '100%', '47%']  memcached=128.7%
+[monitor] ['78%', '100%', '100%', '57%']  memcached=135.8%
+[monitor] ['81%', '100%', '100%', '51%']  memcached=131.7%
+[monitor] ['93%', '100%', '100%', '71%']  memcached=164.8%
+[monitor] ['93%', '100%', '100%', '82%']  memcached=175.6%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[monitor] ['65%', '100%', '47%', '39%']  memcached=149.7%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [2, 1]
+[monitor] ['93%', '100%', '100%', '73%']  memcached=166.3%
+[monitor] ['83%', '100%', '100%', '65%']  memcached=148.0%
+[monitor] ['16%', '100%', '100%', '6%']  memcached=21.8%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['15%', '100%', '100%', '100%']  memcached=15.4%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=12.2%
+[monitor] ['18%', '100%', '100%', '100%']  memcached=17.6%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=9.3%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=12.5%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=8.7%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=8.6%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.3%
+[monitor] ['58%', '100%', '100%', '100%']  memcached=57.8%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[monitor] ['33%', '20%', '24%', '100%']  memcached=77.0%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['99%', '100%', '93%', '100%']  memcached=99.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[monitor] ['24%', '100%', '18%', '17%']  memcached=58.9%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['81%', '100%', '96%', '100%']  memcached=80.6%
+[monitor] ['70%', '100%', '100%', '100%']  memcached=69.8%
+[monitor] ['70%', '100%', '100%', '100%']  memcached=70.2%
+[monitor] ['73%', '100%', '100%', '100%']  memcached=73.2%
+[monitor] ['74%', '100%', '100%', '100%']  memcached=74.1%
+[monitor] ['98%', '100%', '100%', '100%']  memcached=97.9%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[monitor] ['60%', '59%', '100%', '44%']  memcached=163.3%
+[monitor] ['44%', '41%', '100%', '31%']  memcached=114.9%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [2, 1]
+[monitor] ['74%', '100%', '100%', '56%']  memcached=129.8%
+[monitor] ['72%', '100%', '100%', '44%']  memcached=116.1%
+[monitor] ['20%', '100%', '100%', '4%']  memcached=23.7%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.4%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=7.4%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=5.9%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=14.3%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=9.6%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=11.5%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=5.9%
+[monitor] ['13%', '100%', '100%', '100%']  memcached=13.0%
+[monitor] ['58%', '100%', '100%', '100%']  memcached=58.0%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[monitor] ['100%', '100%', '99%', '100%']  memcached=299.0%
+[monitor] ['100%', '99%', '100%', '100%']  memcached=299.0%
+[monitor] ['91%', '88%', '82%', '100%']  memcached=261.0%
+[monitor] ['45%', '36%', '25%', '100%']  memcached=106.1%
+[MEMCACHED] cores updated to: ['0', '2']
+[freqmine] cores updated to: [1, 3]
+[monitor] ['21%', '100%', '6%', '100%']  memcached=27.1%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['9%', '100%', '100%', '100%']  memcached=8.8%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=9.1%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=14.3%
+[monitor] ['59%', '100%', '100%', '100%']  memcached=58.9%
+[monitor] ['73%', '100%', '100%', '100%']  memcached=72.9%
+[monitor] ['69%', '100%', '100%', '100%']  memcached=68.5%
+[monitor] ['67%', '100%', '100%', '100%']  memcached=66.7%
+[monitor] ['65%', '100%', '100%', '100%']  memcached=65.4%
+[monitor] ['26%', '100%', '100%', '100%']  memcached=26.3%
+[monitor] ['16%', '100%', '100%', '100%']  memcached=16.0%
+[monitor] ['22%', '100%', '100%', '100%']  memcached=22.0%
+[monitor] ['20%', '100%', '100%', '100%']  memcached=20.4%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.5%
+[monitor] ['17%', '100%', '100%', '100%']  memcached=16.7%
+[monitor] ['19%', '100%', '100%', '100%']  memcached=18.8%
+[monitor] ['17%', '100%', '100%', '100%']  memcached=17.0%
+[monitor] ['15%', '100%', '100%', '100%']  memcached=14.6%
+[monitor] ['23%', '100%', '100%', '100%']  memcached=22.9%
+[monitor] ['71%', '100%', '100%', '100%']  memcached=71.4%
+[monitor] ['75%', '100%', '100%', '100%']  memcached=74.6%
+[monitor] ['72%', '100%', '100%', '100%']  memcached=72.4%
+[monitor] ['75%', '100%', '100%', '100%']  memcached=75.4%
+[monitor] ['56%', '100%', '100%', '100%']  memcached=56.5%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=6.8%
+[monitor] ['8%', '100%', '100%', '100%']  memcached=8.0%
+[monitor] ['15%', '100%', '100%', '100%']  memcached=14.8%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=10.4%
+[monitor] ['48%', '100%', '100%', '100%']  memcached=47.6%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[monitor] ['66%', '100%', '60%', '47%']  memcached=173.0%
+[monitor] ['38%', '100%', '28%', '19%']  memcached=84.8%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [2, 1]
+[monitor] ['68%', '100%', '100%', '53%']  memcached=121.6%
+[monitor] ['67%', '100%', '100%', '54%']  memcached=121.4%
+[monitor] ['77%', '100%', '100%', '59%']  memcached=135.4%
+[monitor] ['71%', '100%', '100%', '53%']  memcached=124.5%
+[monitor] ['68%', '100%', '100%', '50%']  memcached=117.6%
+[monitor] ['66%', '100%', '100%', '48%']  memcached=113.9%
+[monitor] ['88%', '100%', '100%', '62%']  memcached=149.6%
+[monitor] ['89%', '100%', '100%', '69%']  memcached=157.7%
+[monitor] ['89%', '100%', '100%', '67%']  memcached=156.6%
+[monitor] ['92%', '100%', '100%', '64%']  memcached=155.5%
+[monitor] ['89%', '100%', '100%', '68%']  memcached=156.9%
+[monitor] ['27%', '100%', '100%', '8%']  memcached=35.2%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['33%', '100%', '100%', '100%']  memcached=32.7%
+[monitor] ['33%', '100%', '100%', '100%']  memcached=32.7%
+[monitor] ['30%', '100%', '100%', '100%']  memcached=30.4%
+[monitor] ['29%', '100%', '100%', '100%']  memcached=29.2%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=8.6%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=7.4%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=10.0%
+[monitor] ['13%', '100%', '100%', '100%']  memcached=12.7%
+[monitor] ['31%', '100%', '100%', '100%']  memcached=30.6%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[monitor] ['40%', '37%', '100%', '27%']  memcached=103.7%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [2, 1]
+[monitor] ['57%', '100%', '100%', '35%']  memcached=91.2%
+[monitor] ['56%', '100%', '100%', '37%']  memcached=92.6%
+[monitor] ['37%', '100%', '100%', '17%']  memcached=53.3%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['5%', '100%', '100%', '100%']  memcached=5.0%
+[monitor] ['5%', '100%', '100%', '100%']  memcached=4.8%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=6.5%
+[monitor] ['17%', '100%', '100%', '100%']  memcached=16.9%
+[monitor] ['74%', '100%', '100%', '100%']  memcached=73.9%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[monitor] ['100%', '81%', '99%', '100%']  memcached=280.1%
+[monitor] ['56%', '50%', '44%', '100%']  memcached=149.6%
+[MEMCACHED] cores updated to: ['0', '2']
+[freqmine] cores updated to: [1, 3]
+[monitor] ['89%', '100%', '80%', '100%']  memcached=169.5%
+[monitor] ['40%', '100%', '18%', '100%']  memcached=57.5%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['29%', '100%', '100%', '100%']  memcached=28.9%
+[monitor] ['26%', '100%', '100%', '100%']  memcached=25.6%
+[monitor] ['29%', '100%', '100%', '100%']  memcached=28.9%
+[monitor] ['35%', '100%', '100%', '100%']  memcached=35.3%
+[monitor] ['38%', '100%', '100%', '100%']  memcached=37.5%
+[monitor] ['44%', '100%', '100%', '100%']  memcached=43.8%
+[monitor] ['37%', '100%', '100%', '100%']  memcached=37.2%
+[monitor] ['35%', '100%', '100%', '100%']  memcached=34.8%
+[monitor] ['57%', '100%', '100%', '100%']  memcached=56.6%
+[monitor] ['98%', '100%', '100%', '100%']  memcached=97.7%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[monitor] ['21%', '100%', '13%', '10%']  memcached=43.7%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['97%', '100%', '100%', '100%']  memcached=96.6%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[monitor] ['23%', '21%', '100%', '11%']  memcached=55.0%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['59%', '100%', '100%', '100%']  memcached=58.8%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=9.3%
+[monitor] ['11%', '100%', '100%', '100%']  memcached=11.0%
+[monitor] ['7%', '100%', '100%', '100%']  memcached=6.8%
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.9%
+[monitor] ['69%', '100%', '100%', '100%']  memcached=69.3%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[monitor] ['100%', '100%', '100%', '100%']  memcached=300.0%
+[monitor] ['97%', '88%', '88%', '100%']  memcached=273.3%
+[monitor] ['92%', '82%', '83%', '100%']  memcached=257.4%
+[monitor] ['24%', '11%', '11%', '100%']  memcached=45.4%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['24%', '100%', '100%', '100%']  memcached=23.5%
+[monitor] ['18%', '100%', '100%', '100%']  memcached=18.4%
+[monitor] ['15%', '100%', '100%', '100%']  memcached=14.6%
+[monitor] ['20%', '100%', '100%', '100%']  memcached=20.0%
+[monitor] ['91%', '100%', '100%', '100%']  memcached=91.1%
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [2, 1]
+[monitor] ['37%', '100%', '100%', '20%']  memcached=56.9%
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[monitor] ['84%', '39%', '34%', '37%']  memcached=83.8%
+[freqmine] ended.
+[streamcluster] started on cores: [1, 2, 3] with 3 threads.
+[monitor] ['89%', '73%', '37%', '43%']  memcached=89.0%
+[MEMCACHED] cores updated to: ['0', '1']
+[streamcluster] cores updated to: [2, 3]
+[monitor] ['27%', '21%', '94%', '95%']  memcached=48.0%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [1, 2, 3]
+[monitor] ['9%', '100%', '80%', '97%']  memcached=8.8%
+[monitor] ['11%', '100%', '81%', '98%']  memcached=10.5%
+[monitor] ['5%', '100%', '81%', '97%']  memcached=5.5%
+[monitor] ['11%', '100%', '81%', '97%']  memcached=10.5%
+[monitor] ['69%', '100%', '82%', '94%']  memcached=69.4%
+[monitor] ['91%', '100%', '84%', '93%']  memcached=90.8%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['28%', '99%', '19%', '98%']  memcached=46.5%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [1, 2, 3]
+[monitor] ['91%', '99%', '84%', '93%']  memcached=91.1%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [1, 2]
+[monitor] ['37%', '97%', '95%', '21%']  memcached=58.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [1, 2, 3]
+[monitor] ['98%', '99%', '83%', '92%']  memcached=97.9%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['19%', '15%', '11%', '100%']  memcached=46.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [1, 2, 3]
+[monitor] ['99%', '99%', '82%', '92%']  memcached=98.9%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['21%', '14%', '100%', '8%']  memcached=42.9%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [1, 2, 3]
+[monitor] ['100%', '100%', '83%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['33%', '100%', '24%', '22%']  memcached=78.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [3, 1, 2]
+[monitor] ['100%', '100%', '78%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['58%', '54%', '100%', '37%']  memcached=148.8%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [1, 2]
+[monitor] ['64%', '98%', '93%', '52%']  memcached=116.1%
+[monitor] ['48%', '97%', '95%', '35%']  memcached=83.4%
+[monitor] ['43%', '97%', '95%', '27%']  memcached=70.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [3, 1, 2]
+[monitor] ['98%', '100%', '84%', '94%']  memcached=97.8%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['19%', '100%', '11%', '10%']  memcached=39.5%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['97%', '100%', '86%', '93%']  memcached=96.7%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['16%', '1%', '100%', '3%']  memcached=20.4%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['28%', '99%', '84%', '96%']  memcached=27.7%
+[monitor] ['25%', '100%', '81%', '96%']  memcached=25.0%
+[monitor] ['27%', '100%', '82%', '96%']  memcached=27.1%
+[monitor] ['41%', '100%', '81%', '96%']  memcached=40.7%
+[monitor] ['100%', '100%', '81%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['100%', '96%', '98%', '100%']  memcached=293.6%
+[monitor] ['92%', '83%', '68%', '100%']  memcached=243.2%
+[monitor] ['71%', '68%', '53%', '100%']  memcached=193.0%
+[monitor] ['49%', '46%', '35%', '100%']  memcached=130.2%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['20%', '99%', '8%', '96%']  memcached=27.8%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['41%', '100%', '82%', '95%']  memcached=40.8%
+[monitor] ['45%', '100%', '81%', '95%']  memcached=45.1%
+[monitor] ['39%', '100%', '83%', '94%']  memcached=38.8%
+[monitor] ['83%', '100%', '81%', '93%']  memcached=82.9%
+[monitor] ['100%', '100%', '81%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['83%', '100%', '72%', '71%']  memcached=226.7%
+[monitor] ['41%', '100%', '34%', '29%']  memcached=104.6%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['82%', '96%', '92%', '64%']  memcached=146.5%
+[monitor] ['49%', '97%', '97%', '34%']  memcached=83.7%
+[monitor] ['34%', '96%', '95%', '29%']  memcached=63.8%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['95%', '100%', '82%', '93%']  memcached=95.2%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['24%', '13%', '100%', '11%']  memcached=48.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['94%', '100%', '85%', '92%']  memcached=94.0%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['77%', '99%', '83%', '96%']  memcached=160.0%
+[monitor] ['78%', '100%', '83%', '97%']  memcached=161.5%
+[monitor] ['81%', '99%', '85%', '96%']  memcached=166.5%
+[monitor] ['82%', '100%', '81%', '96%']  memcached=163.5%
+[monitor] ['66%', '99%', '55%', '97%']  memcached=121.5%
+[monitor] ['18%', '98%', '9%', '96%']  memcached=26.4%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['20%', '100%', '64%', '73%']  memcached=20.4%
+[monitor] ['20%', '100%', '81%', '93%']  memcached=20.0%
+[monitor] ['26%', '99%', '83%', '91%']  memcached=26.0%
+[monitor] ['68%', '99%', '82%', '94%']  memcached=68.1%
+[monitor] ['100%', '100%', '83%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['41%', '39%', '100%', '23%']  memcached=103.3%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['63%', '96%', '95%', '50%']  memcached=113.2%
+[monitor] ['50%', '97%', '95%', '39%']  memcached=89.3%
+[monitor] ['59%', '96%', '93%', '42%']  memcached=100.8%
+[monitor] ['65%', '96%', '98%', '52%']  memcached=116.8%
+[monitor] ['66%', '97%', '95%', '47%']  memcached=113.5%
+[monitor] ['65%', '97%', '96%', '52%']  memcached=116.3%
+[monitor] ['70%', '96%', '94%', '47%']  memcached=116.8%
+[monitor] ['91%', '86%', '97%', '89%']  memcached=179.2%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['68%', '100%', '51%', '45%']  memcached=163.6%
+[monitor] ['66%', '100%', '48%', '48%']  memcached=162.1%
+[monitor] ['65%', '100%', '50%', '47%']  memcached=161.2%
+[monitor] ['64%', '100%', '48%', '48%']  memcached=159.1%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['95%', '90%', '92%', '99%']  memcached=193.7%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['92%', '81%', '100%', '59%']  memcached=232.7%
+[monitor] ['96%', '83%', '100%', '64%']  memcached=242.8%
+[monitor] ['96%', '85%', '100%', '63%']  memcached=243.9%
+[monitor] ['78%', '72%', '100%', '52%']  memcached=202.0%
+[monitor] ['64%', '54%', '100%', '38%']  memcached=155.7%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['89%', '97%', '95%', '82%']  memcached=171.5%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['63%', '100%', '46%', '44%']  memcached=152.8%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['93%', '95%', '95%', '91%']  memcached=184.2%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['30%', '18%', '100%', '14%']  memcached=61.8%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['55%', '100%', '82%', '94%']  memcached=55.1%
+[monitor] ['58%', '100%', '83%', '94%']  memcached=57.7%
+[monitor] ['63%', '100%', '81%', '93%']  memcached=63.5%
+[monitor] ['60%', '100%', '84%', '95%']  memcached=59.6%
+[monitor] ['93%', '100%', '82%', '92%']  memcached=93.2%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['100%', '86%', '91%', '100%']  memcached=200.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['92%', '100%', '77%', '66%']  memcached=235.2%
+[monitor] ['72%', '100%', '53%', '54%']  memcached=179.4%
+[monitor] ['66%', '100%', '53%', '50%']  memcached=169.4%
+[monitor] ['29%', '100%', '1%', '1%']  memcached=31.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['25%', '100%', '78%', '99%']  memcached=25.2%
+[monitor] ['23%', '100%', '78%', '99%']  memcached=22.8%
+[monitor] ['25%', '100%', '79%', '99%']  memcached=25.2%
+[monitor] ['35%', '100%', '79%', '99%']  memcached=35.0%
+[monitor] ['98%', '99%', '83%', '92%']  memcached=97.8%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['30%', '18%', '100%', '14%']  memcached=61.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['97%', '100%', '81%', '93%']  memcached=96.7%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['19%', '15%', '11%', '100%']  memcached=45.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['58%', '100%', '81%', '95%']  memcached=58.2%
+[monitor] ['19%', '100%', '78%', '100%']  memcached=18.6%
+[monitor] ['17%', '100%', '78%', '100%']  memcached=17.0%
+[monitor] ['14%', '99%', '60%', '76%']  memcached=14.1%
+[monitor] ['17%', '100%', '78%', '99%']  memcached=17.0%
+[monitor] ['62%', '100%', '80%', '95%']  memcached=62.4%
+[monitor] ['98%', '100%', '81%', '93%']  memcached=97.9%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['23%', '100%', '18%', '16%']  memcached=57.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['98%', '100%', '84%', '93%']  memcached=97.9%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['19%', '15%', '100%', '10%']  memcached=43.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['67%', '100%', '81%', '94%']  memcached=66.7%
+[monitor] ['65%', '100%', '81%', '94%']  memcached=65.5%
+[monitor] ['56%', '100%', '83%', '94%']  memcached=56.0%
+[monitor] ['58%', '99%', '83%', '95%']  memcached=58.5%
+[monitor] ['60%', '100%', '84%', '94%']  memcached=59.6%
+[monitor] ['100%', '100%', '81%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['32%', '32%', '27%', '100%']  memcached=91.0%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['43%', '99%', '38%', '97%']  memcached=80.6%
+[monitor] ['43%', '99%', '36%', '98%']  memcached=78.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['88%', '100%', '82%', '92%']  memcached=87.8%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['14%', '95%', '94%', '1%']  memcached=15.5%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['11%', '100%', '80%', '96%']  memcached=11.1%
+[monitor] ['11%', '100%', '79%', '97%']  memcached=10.9%
+[monitor] ['6%', '100%', '81%', '96%']  memcached=5.9%
+[monitor] ['70%', '100%', '82%', '94%']  memcached=69.6%
+[monitor] ['100%', '99%', '84%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['56%', '42%', '42%', '100%']  memcached=140.3%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['49%', '100%', '44%', '98%']  memcached=92.7%
+[monitor] ['58%', '100%', '43%', '97%']  memcached=101.3%
+[monitor] ['92%', '100%', '86%', '96%']  memcached=177.6%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['81%', '100%', '62%', '53%']  memcached=195.4%
+[monitor] ['78%', '100%', '59%', '57%']  memcached=194.4%
+[monitor] ['79%', '100%', '59%', '55%']  memcached=193.8%
+[monitor] ['82%', '100%', '63%', '60%']  memcached=205.2%
+[monitor] ['10%', '100%', '6%', '2%']  memcached=18.2%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['9%', '100%', '76%', '98%']  memcached=9.5%
+[monitor] ['5%', '100%', '76%', '98%']  memcached=5.5%
+[monitor] ['12%', '100%', '77%', '99%']  memcached=12.5%
+[monitor] ['25%', '100%', '79%', '98%']  memcached=25.0%
+[monitor] ['100%', '100%', '82%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['20%', '17%', '15%', '100%']  memcached=51.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['98%', '100%', '83%', '92%']  memcached=97.9%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['19%', '100%', '12%', '16%']  memcached=47.0%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['100%', '100%', '81%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['70%', '65%', '100%', '46%']  memcached=181.3%
+[monitor] ['62%', '51%', '100%', '36%']  memcached=149.6%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['91%', '97%', '95%', '78%']  memcached=169.3%
+[monitor] ['91%', '95%', '95%', '82%']  memcached=172.9%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['50%', '100%', '40%', '36%']  memcached=125.9%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['89%', '96%', '94%', '77%']  memcached=166.5%
+[monitor] ['88%', '99%', '94%', '70%']  memcached=157.5%
+[monitor] ['80%', '97%', '95%', '62%']  memcached=142.8%
+[monitor] ['83%', '95%', '97%', '64%']  memcached=147.3%
+[monitor] ['18%', '96%', '94%', '9%']  memcached=26.8%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['13%', '100%', '82%', '96%']  memcached=13.5%
+[monitor] ['10%', '100%', '81%', '96%']  memcached=9.8%
+[monitor] ['10%', '99%', '81%', '97%']  memcached=9.8%
+[monitor] ['20%', '100%', '62%', '73%']  memcached=19.6%
+[monitor] ['100%', '99%', '83%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['99%', '93%', '100%', '83%']  memcached=275.0%
+[monitor] ['74%', '70%', '100%', '45%']  memcached=189.4%
+[monitor] ['73%', '65%', '100%', '44%']  memcached=181.7%
+[monitor] ['73%', '64%', '100%', '46%']  memcached=182.9%
+[monitor] ['85%', '77%', '100%', '60%']  memcached=222.1%
+[monitor] ['82%', '76%', '100%', '56%']  memcached=213.5%
+[monitor] ['87%', '77%', '100%', '59%']  memcached=222.6%
+[monitor] ['88%', '77%', '100%', '56%']  memcached=220.1%
+[monitor] ['80%', '72%', '100%', '54%']  memcached=206.2%
+[monitor] ['82%', '73%', '100%', '56%']  memcached=210.2%
+[monitor] ['80%', '71%', '100%', '55%']  memcached=206.4%
+[monitor] ['77%', '69%', '100%', '49%']  memcached=195.8%
+[monitor] ['78%', '69%', '100%', '50%']  memcached=196.7%
+[monitor] ['75%', '68%', '100%', '50%']  memcached=192.6%
+[monitor] ['72%', '62%', '100%', '44%']  memcached=179.0%
+[monitor] ['75%', '65%', '100%', '50%']  memcached=190.0%
+[monitor] ['74%', '66%', '100%', '47%']  memcached=186.3%
+[monitor] ['75%', '64%', '100%', '45%']  memcached=183.3%
+[monitor] ['61%', '50%', '100%', '36%']  memcached=146.9%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['90%', '98%', '93%', '74%']  memcached=163.5%
+[monitor] ['88%', '96%', '93%', '77%']  memcached=165.3%
+[monitor] ['91%', '97%', '90%', '75%']  memcached=165.6%
+[monitor] ['98%', '96%', '82%', '66%']  memcached=163.7%
+[monitor] ['43%', '96%', '95%', '30%']  memcached=72.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['82%', '100%', '82%', '94%']  memcached=81.5%
+[monitor] ['83%', '100%', '82%', '93%']  memcached=83.3%
+[monitor] ['82%', '100%', '82%', '94%']  memcached=82.4%
+[monitor] ['81%', '100%', '82%', '93%']  memcached=80.6%
+[monitor] ['4%', '100%', '80%', '96%']  memcached=3.5%
+[monitor] ['7%', '100%', '81%', '97%']  memcached=6.9%
+[monitor] ['5%', '100%', '80%', '98%']  memcached=5.3%
+[monitor] ['7%', '100%', '81%', '97%']  memcached=6.8%
+[monitor] ['24%', '100%', '81%', '97%']  memcached=24.1%
+[monitor] ['79%', '99%', '84%', '92%']  memcached=79.1%
+[monitor] ['77%', '99%', '82%', '94%']  memcached=76.7%
+[monitor] ['79%', '100%', '83%', '94%']  memcached=79.0%
+[monitor] ['75%', '100%', '82%', '93%']  memcached=74.6%
+[monitor] ['86%', '100%', '83%', '93%']  memcached=86.3%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['97%', '100%', '97%', '96%']  memcached=193.4%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['63%', '61%', '51%', '100%']  memcached=175.2%
+[monitor] ['61%', '61%', '48%', '100%']  memcached=169.5%
+[monitor] ['60%', '61%', '43%', '100%']  memcached=163.7%
+[monitor] ['39%', '39%', '29%', '100%']  memcached=106.5%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['44%', '99%', '39%', '97%']  memcached=82.5%
+[monitor] ['42%', '100%', '37%', '97%']  memcached=78.8%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['100%', '100%', '78%', '90%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['25%', '100%', '25%', '20%']  memcached=70.0%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['100%', '100%', '79%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['32%', '31%', '100%', '19%']  memcached=81.7%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['49%', '97%', '97%', '39%']  memcached=88.1%
+[monitor] ['47%', '96%', '97%', '35%']  memcached=82.5%
+[monitor] ['58%', '99%', '94%', '39%']  memcached=96.4%
+[monitor] ['70%', '94%', '94%', '65%']  memcached=135.1%
+[monitor] ['71%', '97%', '96%', '65%']  memcached=136.4%
+[monitor] ['55%', '96%', '96%', '66%']  memcached=120.4%
+[monitor] ['57%', '98%', '92%', '67%']  memcached=124.3%
+[monitor] ['39%', '98%', '95%', '45%']  memcached=84.7%
+[monitor] ['15%', '97%', '93%', '6%']  memcached=20.7%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['16%', '100%', '83%', '96%']  memcached=16.3%
+[monitor] ['18%', '100%', '83%', '97%']  memcached=17.6%
+[monitor] ['16%', '99%', '83%', '96%']  memcached=16.3%
+[monitor] ['73%', '100%', '83%', '94%']  memcached=73.3%
+[monitor] ['100%', '100%', '80%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['27%', '28%', '21%', '100%']  memcached=75.9%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['100%', '99%', '83%', '92%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['23%', '100%', '16%', '13%']  memcached=52.2%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['29%', '100%', '81%', '97%']  memcached=29.4%
+[monitor] ['11%', '100%', '81%', '97%']  memcached=11.1%
+[monitor] ['5%', '100%', '63%', '74%']  memcached=4.8%
+[monitor] ['8%', '100%', '82%', '98%']  memcached=8.3%
+[monitor] ['10%', '100%', '81%', '98%']  memcached=9.8%
+[monitor] ['96%', '100%', '83%', '92%']  memcached=95.9%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['75%', '74%', '100%', '62%']  memcached=210.3%
+[monitor] ['54%', '47%', '100%', '34%']  memcached=134.6%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['93%', '95%', '92%', '61%']  memcached=154.9%
+[monitor] ['84%', '96%', '91%', '54%']  memcached=137.7%
+[monitor] ['45%', '98%', '93%', '27%']  memcached=71.8%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['99%', '100%', '82%', '93%']  memcached=99.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['20%', '21%', '16%', '100%']  memcached=56.5%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['99%', '100%', '83%', '93%']  memcached=99.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[monitor] ['17%', '100%', '15%', '10%']  memcached=42.1%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['81%', '100%', '81%', '93%']  memcached=81.2%
+[monitor] ['84%', '100%', '76%', '93%']  memcached=83.6%
+[monitor] ['79%', '100%', '83%', '94%']  memcached=79.4%
+[monitor] ['77%', '100%', '83%', '94%']  memcached=77.0%
+[monitor] ['95%', '100%', '82%', '92%']  memcached=95.5%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[monitor] ['42%', '37%', '100%', '27%']  memcached=105.0%
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[monitor] ['73%', '96%', '96%', '43%']  memcached=115.4%
+[monitor] ['72%', '98%', '94%', '44%']  memcached=116.0%
+[monitor] ['67%', '97%', '92%', '42%']  memcached=109.1%
+[monitor] ['71%', '98%', '94%', '47%']  memcached=117.8%
+[monitor] ['71%', '96%', '93%', '46%']  memcached=116.6%
+[monitor] ['71%', '97%', '92%', '40%']  memcached=110.9%
+[monitor] ['69%', '96%', '96%', '45%']  memcached=114.0%
+[monitor] ['63%', '97%', '93%', '44%']  memcached=107.3%
+[monitor] ['16%', '96%', '93%', '4%']  memcached=20.2%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['8%', '100%', '80%', '97%']  memcached=7.9%
+[monitor] ['8%', '100%', '82%', '98%']  memcached=7.9%
+[monitor] ['8%', '100%', '81%', '98%']  memcached=7.8%
+[monitor] ['10%', '100%', '81%', '97%']  memcached=9.7%
+[monitor] ['12%', '100%', '81%', '97%']  memcached=12.1%
+[monitor] ['11%', '100%', '81%', '98%']  memcached=10.9%
+[monitor] ['7%', '100%', '81%', '97%']  memcached=7.3%
+[monitor] ['9%', '100%', '81%', '97%']  memcached=9.1%
+[monitor] ['53%', '100%', '81%', '95%']  memcached=52.9%
+[monitor] ['100%', '99%', '82%', '91%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[monitor] ['79%', '74%', '71%', '100%']  memcached=223.8%
+[monitor] ['44%', '39%', '30%', '100%']  memcached=112.5%
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[monitor] ['70%', '99%', '67%', '97%']  memcached=136.9%
+[monitor] ['38%', '100%', '32%', '98%']  memcached=70.6%
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[monitor] ['11%', '100%', '82%', '97%']  memcached=10.9%
+[monitor] ['13%', '100%', '82%', '96%']  memcached=13.0%
+[monitor] ['9%', '99%', '81%', '97%']  memcached=9.3%
+[monitor] ['13%', '100%', '82%', '97%']  memcached=12.7%
+[monitor] ['11%', '100%', '82%', '98%']  memcached=10.7%
+[monitor] ['9%', '100%', '81%', '98%']  memcached=8.9%
+[monitor] ['12%', '96%', '73%', '90%']  memcached=12.3%
+[monitor] ['5%', '1%', '1%', '2%']  memcached=4.8%
+[streamcluster] ended.
+[vips] started on cores: [1, 2, 3] with 3 threads.
+[monitor] ['3%', '20%', '18%', '73%']  memcached=3.4%
+[monitor] ['7%', '5%', '5%', '98%']  memcached=7.1%
+[monitor] ['26%', '100%', '100%', '100%']  memcached=26.4%
+[monitor] ['21%', '100%', '100%', '100%']  memcached=20.8%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=10.0%
+[monitor] ['37%', '100%', '100%', '100%']  memcached=36.8%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[vips] cores updated to: [3]
+[monitor] ['99%', '100%', '97%', '100%']  memcached=296.0%
+[monitor] ['93%', '80%', '81%', '100%']  memcached=254.5%
+[monitor] ['81%', '75%', '63%', '100%']  memcached=218.9%
+[monitor] ['66%', '61%', '52%', '100%']  memcached=178.8%
+[monitor] ['45%', '60%', '59%', '100%']  memcached=163.8%
+[monitor] ['38%', '85%', '45%', '100%']  memcached=169.1%
+[monitor] ['41%', '61%', '62%', '100%']  memcached=164.0%
+[monitor] ['85%', '30%', '44%', '100%']  memcached=159.1%
+[MEMCACHED] cores updated to: ['0', '2']
+[vips] cores updated to: [1, 3]
+[monitor] ['100%', '100%', '38%', '100%']  memcached=137.9%
+[monitor] ['100%', '100%', '44%', '100%']  memcached=144.3%
+[monitor] ['74%', '100%', '69%', '100%']  memcached=143.1%
+[monitor] ['65%', '100%', '80%', '100%']  memcached=145.0%
+[monitor] ['70%', '100%', '74%', '100%']  memcached=143.6%
+[monitor] ['31%', '100%', '100%', '100%']  memcached=131.2%
+[monitor] ['67%', '100%', '65%', '100%']  memcached=131.7%
+[monitor] ['78%', '100%', '27%', '100%']  memcached=105.0%
+[monitor] ['33%', '100%', '22%', '100%']  memcached=54.5%
+[MEMCACHED] cores updated to: ['0']
+[vips] cores updated to: [1, 2, 3]
+[monitor] ['46%', '100%', '100%', '100%']  memcached=45.9%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=6.5%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=6.3%
+[monitor] ['10%', '100%', '100%', '100%']  memcached=10.3%
+[monitor] ['6%', '100%', '100%', '100%']  memcached=6.2%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=11.8%
+[monitor] ['8%', '99%', '100%', '100%']  memcached=8.4%
+[monitor] ['12%', '100%', '100%', '100%']  memcached=11.8%
+[monitor] ['13%', '100%', '100%', '100%']  memcached=13.5%
+[monitor] ['13%', '100%', '100%', '100%']  memcached=13.5%
+[monitor] ['76%', '100%', '100%', '100%']  memcached=75.5%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[vips] cores updated to: [2]
+[monitor] ['96%', '99%', '100%', '95%']  memcached=290.0%
+[monitor] ['67%', '61%', '100%', '44%']  memcached=171.3%
+[monitor] ['63%', '59%', '100%', '45%']  memcached=167.4%
+[monitor] ['22%', '10%', '100%', '9%']  memcached=41.0%
+[MEMCACHED] cores updated to: ['0']
+[vips] cores updated to: [1, 2, 3]
+[monitor] ['14%', '100%', '100%', '100%']  memcached=13.8%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=8.8%
+[monitor] ['5%', '100%', '100%', '100%']  memcached=5.5%
+[monitor] ['9%', '100%', '100%', '100%']  memcached=8.8%
+[monitor] ['100%', '100%', '100%', '100%']  memcached=100.0%
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[vips] cores updated to: [1]
+[monitor] ['54%', '100%', '46%', '33%']  memcached=133.2%
+[MEMCACHED] cores updated to: ['0', '3']
+[vips] cores updated to: [1, 2]
+[monitor] ['65%', '100%', '100%', '42%']  memcached=107.5%
+[monitor] ['72%', '100%', '100%', '77%']  memcached=148.9%
+[monitor] ['78%', '100%', '100%', '100%']  memcached=178.1%
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[vips] cores updated to: [2]
+[monitor] ['76%', '71%', '100%', '62%']  memcached=208.8%
+[monitor] ['4%', '40%', '1%', '20%']  memcached=63.5%
+[vips] ended.
+[MEMCACHED] cores updated to: ['0', '1', '2', '3']

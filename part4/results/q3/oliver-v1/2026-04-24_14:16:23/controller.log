@@ -1,0 +1,133 @@
+[radix] started on cores: [1] with 1 threads.
+[barnes] started on cores: [2, 3] with 2 threads.
+Scheduler started.
+[MEMCACHED] cores updated to: ['0', '1']
+[radix] paused.
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[radix] cores updated to: [3]
+[radix] unpaused.
+[barnes] paused.
+[MEMCACHED] cores updated to: ['0', '2']
+[radix] paused.
+[barnes] cores updated to: [1, 3]
+[barnes] unpaused.
+[MEMCACHED] cores updated to: ['0']
+[radix] cores updated to: [2]
+[radix] unpaused.
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[barnes] paused.
+[radix] ended.
+[blackscholes] started on cores: [2] with 3 threads.
+[MEMCACHED] cores updated to: ['0', '3']
+[barnes] cores updated to: [1, 2]
+[barnes] unpaused.
+[blackscholes] paused.
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] cores updated to: [3]
+[blackscholes] unpaused.
+[barnes] ended.
+[blackscholes] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[blackscholes] cores updated to: [2]
+[MEMCACHED] cores updated to: ['0', '3']
+[blackscholes] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[blackscholes] cores updated to: [1, 2, 3]
+[blackscholes] ended.
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[canneal] started on cores: [1] with 3 threads.
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[canneal] cores updated to: [3]
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[canneal] cores updated to: [2]
+[MEMCACHED] cores updated to: ['0', '3']
+[canneal] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[canneal] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '2']
+[canneal] cores updated to: [1, 3]
+[canneal] ended.
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] started on cores: [1] with 3 threads.
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[MEMCACHED] cores updated to: ['0', '2']
+[freqmine] cores updated to: [1, 3]
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[freqmine] cores updated to: [2]
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [3, 1, 2]
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[freqmine] cores updated to: [3]
+[MEMCACHED] cores updated to: ['0', '2']
+[freqmine] cores updated to: [3, 1]
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[freqmine] cores updated to: [1]
+[MEMCACHED] cores updated to: ['0', '3']
+[freqmine] cores updated to: [2, 1]
+[MEMCACHED] cores updated to: ['0']
+[freqmine] cores updated to: [2, 1, 3]
+[freqmine] ended.
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] started on cores: [1] with 3 threads.
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[streamcluster] cores updated to: [3]
+[MEMCACHED] cores updated to: ['0', '2']
+[streamcluster] cores updated to: [1, 3]
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [3, 1, 2]
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [3, 1, 2]
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[streamcluster] cores updated to: [1]
+[MEMCACHED] cores updated to: ['0', '3']
+[streamcluster] cores updated to: [2, 1]
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[streamcluster] cores updated to: [2]
+[MEMCACHED] cores updated to: ['0']
+[streamcluster] cores updated to: [2, 1, 3]
+[streamcluster] ended.
+[MEMCACHED] cores updated to: ['0', '2', '3']
+[vips] started on cores: [1] with 3 threads.
+[MEMCACHED] cores updated to: ['0', '3']
+[vips] cores updated to: [1, 2]
+[MEMCACHED] cores updated to: ['0']
+[vips] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '2']
+[vips] cores updated to: [3]
+[MEMCACHED] cores updated to: ['0']
+[vips] cores updated to: [1, 2, 3]
+[MEMCACHED] cores updated to: ['0', '1', '3']
+[vips] ended.

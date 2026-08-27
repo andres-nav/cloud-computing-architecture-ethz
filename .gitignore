@@ -1,0 +1,9 @@
+.envrc
+.direnv/
+__pycache__/
+*.pyc
+part3-openevolve/checkpoint/
+part3-openevolve/results/*/checkpoints/
+part3-openevolve/.venv/
+part3-openevolve/.env
+.DS_Store

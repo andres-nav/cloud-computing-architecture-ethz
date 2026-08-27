@@ -1,0 +1,160 @@
+# --- Memcached ---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: some-memcached
+  labels:
+    name: some-memcached
+spec:
+  containers:
+    - image: anakli/memcached:t1
+      name: memcached
+      imagePullPolicy: Always
+      command: ["/bin/sh"]
+      args: ["-c", "taskset -c 0 ./memcached -t 1 -u memcache"]
+  nodeSelector:
+    cca-project-nodetype: "node-b-4core"
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-blackscholes
+  labels:
+    name: parsec-blackscholes
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_blackscholes
+        name: parsec-blackscholes
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0-3 ./run -a run -S parsec -p blackscholes -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+# AFTER parsec-blackscholes
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-canneal
+  labels:
+    name: parsec-canneal
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_canneal
+        name: parsec-canneal
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0-3 ./run -a run -S parsec -p canneal -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-vips
+  labels:
+    name: parsec-vips
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_vips
+        name: parsec-vips
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 4-7 ./run -a run -S parsec -p vips -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+# AFTER parsec-vips
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-freqmine
+  labels:
+    name: parsec-freqmine
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_freqmine
+        name: parsec-freqmine
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 4-7 ./run -a run -S parsec -p freqmine -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-streamcluster
+  labels:
+    name: parsec-streamcluster
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_streamcluster
+        name: parsec-streamcluster
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 1-3 ./run -a run -S parsec -p streamcluster -i native -n 3"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-b-4core"
+
+---
+# AFTER parsec-freqmine
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-barnes
+  labels:
+    name: parsec-barnes
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:splash2x_barnes
+        name: parsec-barnes
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 4-7 ./run -a run -S splash2x -p barnes -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+# AFTER parsec-canneal
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-radix
+  labels:
+    name: parsec-radix
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:splash2x_radix
+        name: parsec-radix
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0 ./run -a run -S splash2x -p radix -i native -n 1"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"

@@ -1,0 +1,16 @@
+Job:  parsec-barnes
+Job time:  0:01:03
+Job:  parsec-blackscholes
+Job time:  0:01:13
+Job:  parsec-canneal
+Job time:  0:02:56
+Job:  parsec-freqmine
+Job time:  0:03:00
+Job:  parsec-radix
+Job time:  0:01:03
+Job:  parsec-streamcluster
+Job time:  0:03:39
+Job:  parsec-vips
+Job time:  0:00:40
+Job:  memcached
+Total time: 0:05:23

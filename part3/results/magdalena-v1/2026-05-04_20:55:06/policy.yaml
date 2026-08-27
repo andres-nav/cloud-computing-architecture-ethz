@@ -1,0 +1,204 @@
+# Policy: magdalena-v1
+#
+# - Strategy
+# Memcached on node b, slot 0, collocated with canneal on one slot and blackscholes on two slots as they seem to be a good match according to the results from Part 2. All other jobs executed on node a, first running the three jobs with the best scaling on all 8 cpus, freqmine, barnes, and radix. Then collocating steramcluster and vips each on 4 cpus.
+#
+# Execution order:
+#   Phase 1: memcached (node-b, cores 0, 1t) + canneal (node-b, cores 1, 1t) + blackscholes (node-b, cores 2-3, 2t) + freqmine (node-a, cores 0-7, 8t)
+#   Phase 2: barnes (node-a, cores 0-7, 8t)
+#   Phase 3: radix (node-a, cores 0-7, 8t)
+#   Phase 4: streamcluster (node-a, cores 0-3, 4t) + vips (node-a, cores 4-7, 4t)
+#
+# Reason:
+# According to the interference results from Part 1, and Part 2, memcached, canneal, and blackscholes seem to be good candidates for collocation, as canneal, and blackscholes had little interference effects on cpu and l1i, where memcached had the highest impacts on, suggesting, that they won't interfere so much. Additionally, blackscholes and canneal had the worst results regarding parallelism, so assigning them less threads is better than assigning a task scaling better less threads.
+# The jobs freqmine, barnes, and radix scaled well up to 8 threads, therefore they are executed sequentually on the full node using all 8 threads. The two left jobs, streamcluster and vips, scaled well on 4 threads but less well 8 threads. Therefore they are collocated and each get 4 threads.
+#
+# Memcached placement:
+#   Higher per core frequency, increasing single thread performance. Pinning to core 0 means, does not share cpu and l1i cache with batch jobs.
+#
+# Node-b colocated jobs:
+#   Canneal and blackscholes show low interference effects on important resources for memcached. Additionally, they are on seperated cores to minimize interference. Moreover, they scale less well with more threads and seem to benefit from a higher frequency.
+#
+# Node-a job pairing:
+#   The first three jobs are placed alone on the node sequentially. The last two jobs are each on four threads but their memory bandwidth data just shows medium effects on interference.
+#
+# Thread counts:
+#   freqmine, barnes, and radix scaled very well on 8 threads, so the nodes are fully utilized. streamcluster and vips showed less scaling, getting just 4 cores. The least scaling was visible by canneal and blackscholes, getting the least amount of threads, but on a higher frequency.
+#
+# -----------------------------------------------------------------------------
+# IMPORTANT: Memcached MUST be the first resource in this file.
+# The Makefile extracts the memcached node from the first cca-project-nodetype.
+#
+# Use "# AFTER <job-name>" after a --- separator to declare a dependency.
+# Jobs without AFTER launch immediately.
+# The launcher waits for the dependency to complete before creating the job.
+# Example:
+#   ---
+#   <job A>    <- launches immediately
+#   ---
+#   <job B>    <- launches immediately
+#   ---
+#   # AFTER parsec-blackscholes
+#   <job C>    <- waits for blackscholes to complete first
+# -----------------------------------------------------------------------------
+
+# --- Memcached ---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: some-memcached
+  labels:
+    name: some-memcached
+spec:
+  containers:
+    - image: anakli/memcached:t1
+      name: memcached
+      imagePullPolicy: Always
+      command: ["/bin/sh"]
+      args: ["-c", "taskset -c 0 ./memcached -t 1 -u memcache"]
+  nodeSelector:
+    cca-project-nodetype: "node-b-4core"
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-freqmine
+  labels:
+    name: parsec-freqmine
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_freqmine
+        name: parsec-freqmine
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0-7 ./run -a run -S parsec -p freqmine -i native -n 8"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-blackscholes
+  labels:
+    name: parsec-blackscholes
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_blackscholes
+        name: parsec-blackscholes
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 2-3 ./run -a run -S parsec -p blackscholes -i native -n 2"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-b-4core"
+
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-canneal
+  labels:
+    name: parsec-canneal
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_canneal
+        name: parsec-canneal
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 1 ./run -a run -S parsec -p canneal -i native -n 1"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-b-4core"
+
+---
+# AFTER parsec-freqmine
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-barnes
+  labels:
+    name: parsec-barnes
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:splash2x_barnes
+        name: parsec-barnes
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0-7 ./run -a run -S splash2x -p barnes -i native -n 8"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+# AFTER parsec-barnes
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-radix
+  labels:
+    name: parsec-radix
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:splash2x_radix
+        name: parsec-radix
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0-7 ./run -a run -S splash2x -p radix -i native -n 8"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+# AFTER parsec-radix
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-streamcluster
+  labels:
+    name: parsec-streamcluster
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_streamcluster
+        name: parsec-streamcluster
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 0-3 ./run -a run -S parsec -p streamcluster -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"
+
+---
+# AFTER parsec-radix
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-vips
+  labels:
+    name: parsec-vips
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:parsec_vips
+        name: parsec-vips
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c 4-7 ./run -a run -S parsec -p vips -i native -n 4"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "node-a-8core"

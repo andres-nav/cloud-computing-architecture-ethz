@@ -1,0 +1,38 @@
+# --- Memcached ---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: some-memcached
+  labels:
+    name: some-memcached
+spec:
+  containers:
+    - image: anakli/memcached:t1
+      name: memcached
+      imagePullPolicy: Always
+      command: ["/bin/sh"]
+      args: ["-c", "taskset -c <core> ./memcached -t 1 -u memcache"]
+  nodeSelector:
+    cca-project-nodetype: "<node-a-8core|node-b-4core>"
+
+---
+# AFTER <batch job name> DELETE IF NOT USED
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: parsec-<jobname>
+  labels:
+    name: parsec-<jobname>
+spec:
+  template:
+    spec:
+      containers:
+      - image: anakli/cca:<image>
+        name: parsec-<jobname>
+        imagePullPolicy: Always
+        command: ["/bin/sh"]
+        args: ["-c", "taskset -c <cores> ./run -a run -S <parsec|splash2x> -p <jobname> -i native -n <threads>"]
+      restartPolicy: Never
+      nodeSelector:
+        cca-project-nodetype: "<node-a-8core|node-b-4core>"
+---
